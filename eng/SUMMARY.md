@@ -20,6 +20,7 @@
 * [Pocket Law](pocket-law.md)
 * [Saving a document](saving-a-document.md)
 * [Creating search alerts](creating-search-alerts.md)
+* [Add and Manage Comments in a Document](add-and-manage-comments-in-a-document.md)
 * [Articles on AfricanLII](articles-on-africanlii.md)
 * [African union documents (AU)](african-union-documents-au.md)
 
