@@ -7,5 +7,9 @@
     "APP_NAME": "TanzLII",
     "APP_URL": "https://tanzlii.org",
     "languages": ["eng"]
+  }, {
+    "APP_NAME": "ULII",
+    "APP_URL": "https://ulii.org",
+    "languages": ["eng"]
   }]
 }
