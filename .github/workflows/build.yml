@@ -28,7 +28,7 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies
-        run: pip install jinja2
+        run: pip install -r requirements.txt
 
       - name: Build
         run: python bin/build.py
