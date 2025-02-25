@@ -1,5 +1,5 @@
 ---
-description: How to search on the platform
+description: How to search on LawLibrary
 ---
 
 # Search for content
