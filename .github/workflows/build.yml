@@ -1,0 +1,39 @@
+name: Build site variants
+
+on:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Build per-site variants and commit changes
+    # avoid circular build commits
+    if: ${{ !contains(github.event.head_commit.message, 'nobuild') }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          # use a token that has admin perms to bypass direct commits to master
+          token: ${{ secrets.LA_ACTIONS_TOKEN }}
+
+      - name: Set up Python Environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install jinja2
+
+      - name: Build
+        run: python bin/build.py
+
+      - name: Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'Update site variants [nobuild]'
