@@ -19,12 +19,12 @@ def process_file(env, file_path, context):
     prefix = f'{context["APP_CODE"]}--'
 
     def replace_src(match):
-        src = os.path.basename(match.group(1))
+        src = os.path.basename(match.group(2))
         if '--' not in src:
-            return f'src=".gitbook/assets/{prefix}{src}"'
+            return f'src="{match.group(1)}.gitbook/assets/{prefix}{src}"'
         return match.group(0)
 
-    processed_content = re.sub(r'src="\.gitbook/assets/([^"]+)"', replace_src, processed_content)
+    processed_content = re.sub(r'src="([^"]*)\.gitbook/assets/([^"]+)"', replace_src, processed_content)
 
     return processed_content
 
