@@ -14,15 +14,15 @@ description: Explore legislation using these few easy steps
    * **Uncommenced legislation:**  Legislation that has been enacted by a legislative body but has not yet come into effect.
    * **All legislation:** A complete list of all legislation including principal Acts, subsidiary, and repealed legislation.
 
-<div align="left"><figure><img src="../.gitbook/assets/legislation 4.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/lawlibrary--legislation 4.png" alt=""><figcaption></figcaption></figure></div>
 
 3. Filter the titles by typing in the **filter box.**
 
-<div align="left"><figure><img src="../.gitbook/assets/legislation 5.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/lawlibrary--legislation 5.png" alt=""><figcaption></figcaption></figure></div>
 
 4. Type in keywords related to the document you are looking for in the search bar on the legislation listing page and click on the "**Search**" button to retrieve relevant documents.&#x20;
 5. To get refined search options, click on "**Advanced search**" next to the search bar to access additional filters and criteria.
 
-<figure><img src="../.gitbook/assets/legislation 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/lawlibrary--legislation 6.png" alt=""><figcaption></figcaption></figure>
 
 6. Filter your results on the left side by **year, nature,** and **by first alphabet.**

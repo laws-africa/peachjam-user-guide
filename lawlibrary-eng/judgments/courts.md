@@ -14,8 +14,8 @@ Courts deliver judgments, which are the main way that judgments are grouped on t
 2. Click on a **court's name** to explore judgments from that court.
 3.  Click on a **year** to limit judgments to a particular year.
 
-    <figure><img src="../.gitbook/assets/year court.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/lawlibrary--year court.png" alt=""><figcaption></figcaption></figure>
 4.  Click on **Judges** in the Filters box on the left to refine the results further to a particular judge.\
 
 
-    <div align="left"><figure><img src="../.gitbook/assets/judges.png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../.gitbook/assets/lawlibrary--judges.png" alt=""><figcaption></figcaption></figure></div>

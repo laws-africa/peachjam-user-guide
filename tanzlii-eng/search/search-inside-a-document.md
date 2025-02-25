@@ -6,7 +6,7 @@ description: >-
 
 # Search inside a document
 
-<div align="left"><figure><img src="../.gitbook/assets/Law lib 4.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/tanzlii--Law lib 4.png" alt=""><figcaption></figcaption></figure></div>
 
 ## How to search inside a document
 
@@ -16,12 +16,12 @@ description: >-
 4. Click **Search** button
 5. Your search term is highlighted in yellow in the document, and a list of matches is shown on the left.
 
-<figure><img src="../.gitbook/assets/Law lib 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tanzlii--Law lib 5.png" alt=""><figcaption></figcaption></figure>
 
 6. Click on a search result to jump to that part of the document.
 7. To make a new search, click **Clear** and start again.
 
-<div align="left"><figure><img src="../.gitbook/assets/Law lib 6.png" alt="" width="358"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/tanzlii--Law lib 6.png" alt="" width="358"><figcaption></figcaption></figure></div>
 
 These processes will assist you in navigating our documents and efficiently finding specific information using our in-document search feature.
 
