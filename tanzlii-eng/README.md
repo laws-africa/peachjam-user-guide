@@ -1,9 +1,14 @@
 ---
-description: How to find legal information on Legal Information Institute websites.
+description: Find, research and share legal information on %%APP_NAME%%.
 ---
 
-# Legal Information Institute Website (LIIWeb) Help
+# Getting started
 
-## Judgments
+## Discover %%APP\_NAME%%
 
-* [Courts](judgments/courts.md)
+* [courts.md](judgments/courts.md "mention")
+* [search-for-content.md](search/search-for-content.md "mention")
+* [search-inside-a-document.md](documents/search-inside-a-document.md "mention")
+* [finding-legislation.md](legislation/finding-legislation.md "mention")
+
+\{% if APP\_NAME == "LawLibrary" %\}xx\{%else %\}yy\{%endif%\}
