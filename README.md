@@ -46,7 +46,7 @@ Consult the [Jinja template documentation](https://jinja.palletsprojects.com/en/
 
 ## Image variants
 
-Images are stored in the [.gitbook/assets](.gitbook/assets) directory. When a new website variant is created, a copy
+Images are stored in the `.gitbook/assets` directory. When a new website variant is created, a copy
 is made of each image file, using the name of the website. The website Markdown files are updated to reference the
 localised version of the file.
 
