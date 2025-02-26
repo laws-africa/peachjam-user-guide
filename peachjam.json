@@ -1,7 +1,19 @@
 {
   "sites": [{
+    "APPNAME": "GhaLII",
+    "APPURL": "https://ghalii.org",
+    "languages": ["eng"]
+  }, {
+    "APPNAME": "KenyaLaw",
+    "APPURL": "https://new.kenyalaw.org",
+    "languages": ["eng"]
+  }, {
     "APPNAME": "LawLibrary",
     "APPURL": "https://lawlibrary.org.za",
+    "languages": ["eng"]
+  }, {
+    "APPNAME": "SeyLII",
+    "APPURL": "https://seylii.org",
     "languages": ["eng"]
   }, {
     "APPNAME": "TanzLII",
