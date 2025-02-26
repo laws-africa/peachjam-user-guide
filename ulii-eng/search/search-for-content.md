@@ -33,6 +33,3 @@ The search feature makes it easy to find exactly what you’re looking for.
 
 * Use quotation marks around phrases and multi-word searches. For example: "**climate change**"
 * If you can’t find what you’re looking for, try different or fewer search terms.
-
-\
-\
