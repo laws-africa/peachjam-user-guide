@@ -1,15 +1,15 @@
 {
   "sites": [{
-    "APP_NAME": "LawLibrary",
-    "APP_URL": "https://lawlibrary.org.za",
+    "APPNAME": "LawLibrary",
+    "APPURL": "https://lawlibrary.org.za",
     "languages": ["eng"]
   }, {
-    "APP_NAME": "TanzLII",
-    "APP_URL": "https://tanzlii.org",
+    "APPNAME": "TanzLII",
+    "APPURL": "https://tanzlii.org",
     "languages": ["eng"]
   }, {
-    "APP_NAME": "ULII",
-    "APP_URL": "https://ulii.org",
+    "APPNAME": "ULII",
+    "APPURL": "https://ulii.org",
     "languages": ["eng"]
   }]
 }

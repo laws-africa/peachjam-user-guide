@@ -10,6 +10,3 @@ description: Find, research and share legal information on %%APPNAME%%.
 * [search-for-content.md](search/search-for-content.md "mention")
 * [search-inside-a-document.md](documents/search-inside-a-document.md "mention")
 * [finding-legislation.md](legislation/finding-legislation.md "mention")
-
-(% if APP\_NAME == "LawLibrary" %)xx(%else %)yy(%endif%)
-

@@ -16,7 +16,7 @@ def process_file(env, file_path, context):
 
     # replace the src with the localised version
     # <img src=".gitbook/assets/comments 1.png">
-    prefix = f'{context["APP_CODE"]}--'
+    prefix = f'{context["APPCODE"]}--'
 
     def replace_src(match):
         src = os.path.basename(match.group(2))
@@ -35,7 +35,7 @@ def copy_assets(src, dst, site):
     assets_dir = os.path.join(src, '.gitbook', 'assets')
     files = {entry.name: entry for entry in os.scandir(assets_dir) if entry.is_file()}
 
-    prefix = f'{site["APP_CODE"]}--'
+    prefix = f'{site["APPCODE"]}--'
 
     for fname, entry in files.items():
         if '--' not in fname:
@@ -66,6 +66,8 @@ def copy_and_process_tree(src, dst, site):
     env = Environment(
         block_start_string="(%",
         block_end_string="%)",
+        variable_start_string="%%",
+        variable_end_string="%%",
     )
 
     # now post-process the .md files
@@ -82,12 +84,12 @@ def build_sites(peachjam_path, src_base, dst_base):
         peachjam = json.load(file)
 
     for site in peachjam['sites']:
-        if 'APP_CODE' not in site:
-            site['APP_CODE'] = site['APP_NAME'].lower()
+        if 'APPCODE' not in site:
+            site['APPCODE'] = site['APPNAME'].lower()
 
         for lang in site['languages']:
             src = os.path.join(src_base, lang)
-            dst = os.path.join(dst_base, f"{site['APP_CODE']}-{lang}")
+            dst = os.path.join(dst_base, f"{site['APPCODE']}-{lang}")
             site['LANG'] = lang
             copy_and_process_tree(src, dst, site)
 
