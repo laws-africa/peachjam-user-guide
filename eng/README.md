@@ -1,13 +1,15 @@
 ---
-description: Find, research and share legal information on {{APP_NAME}}.
+description: Find, research and share legal information on %%APP_NAME%%.
 ---
 
 # Getting started
 
-## Discover \{{APP\_NAME\}}
+## Discover %%APP\_NAME%%
 
 * [courts.md](judgments/courts.md "mention")
 * [search-for-content.md](search/search-for-content.md "mention")
 * [search-inside-a-document.md](documents/search-inside-a-document.md "mention")
 * [finding-legislation.md](legislation/finding-legislation.md "mention")
+
+\{% if APP\_NAME == "LawLibrary" %\}xx\{%else %\}yy\{%endif%\}
 
