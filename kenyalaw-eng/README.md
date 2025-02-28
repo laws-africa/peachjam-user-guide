@@ -1,10 +1,10 @@
 ---
-description: Find, research and share legal information on KenyaLaw.
+description: Find, research and share legal information on Kenya Law.
 ---
 
 # Getting started
 
-## Discover KenyaLaw
+## Discover Kenya Law
 
 * [courts.md](judgments/courts.md "mention")
 * [search-for-content.md](search/search-for-content.md "mention")

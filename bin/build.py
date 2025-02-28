@@ -85,7 +85,7 @@ def build_sites(peachjam_path, src_base, dst_base):
 
     for site in peachjam['sites']:
         if 'APPCODE' not in site:
-            site['APPCODE'] = site['APPNAME'].lower()
+            site['APPCODE'] = re.sub(r'[^a-zA-Z0-9-]', '', site['APPNAME'].lower())
 
         for lang in site['languages']:
             src = os.path.join(src_base, lang)
