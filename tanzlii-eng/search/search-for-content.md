@@ -15,7 +15,7 @@ description: How to search on TanzLII
 
 ## Focus results with filters
 
-Here’s an example. A search for **"climate change"** returns over 600 documents.
+Here’s an example. A search for **"marriage"** returns over 3000 documents.
 
 <figure><img src="../.gitbook/assets/tanzlii--Law lib 1 (1).png" alt=""><figcaption></figcaption></figure>
 
