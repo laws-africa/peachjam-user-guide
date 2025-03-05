@@ -15,6 +15,7 @@ description: How to search on SeyLII
 
 ## Focus results with filters
 
+
 Here’s an example. A search for **"climate change"** returns over 600 documents.
 
 <figure><img src="../.gitbook/assets/seylii--Law lib 1 (1).png" alt=""><figcaption></figcaption></figure>
