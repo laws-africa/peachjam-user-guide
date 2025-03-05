@@ -15,8 +15,11 @@ description: How to search on %%APPNAME%%
 
 ## Focus results with filters
 
+(% if %%APPNAME%% == "TanzLII" %)
+Here’s an example. A search for **"marriage"** returns over 3000 documents.
+(% else %)
 Here’s an example. A search for **"climate change"** returns over 600 documents.
-
+(% endif %)
 <figure><img src="../.gitbook/assets/Law lib 1 (1).png" alt=""><figcaption></figcaption></figure>
 
 Apply the **Act filters** on the left-hand side to isolate legislation only.
