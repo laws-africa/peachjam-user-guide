@@ -20,8 +20,8 @@
 * [Search inside a document](documents/search-inside-a-document.md)
 * [Document table of contents](documents/document-table-of-contents-toc.md)
 * [Saving a document](documents/saving-a-document.md)
-* [Add and Manage Comments in a Document](documents/add-and-manage-comments-in-a-document.md)
-* [Understanding subject area tags:](documents/understanding-subject-area-tags.md)
+* [Make comments in a document](documents/add-and-manage-comments-in-a-document.md)
+* [Subject area tags](documents/understanding-subject-area-tags.md)
 
 ## Legislation
 

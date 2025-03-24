@@ -6,7 +6,7 @@ description: Efficiently navigate a document using the table of contents
 
 You can efficiently explore a large document, by using the table of contents to navigate sections.
 
-## To access the Table of Contents:
+## To access the Table of Contents
 
 1. Locate the legislation
 2. Open the document to view the **Table of contents** on the left-hand side of the page.
