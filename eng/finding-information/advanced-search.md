@@ -4,6 +4,10 @@ description: Explore Advanced search on you LII site
 
 # Advanced search
 
+{% embed url="https://youtu.be/foigHLchj58" %}
+
+
+
 Advanced search techniques allow you to narrow down your results and find exactly what you seek.
 
 1. Click **Advanced Search** on your site
