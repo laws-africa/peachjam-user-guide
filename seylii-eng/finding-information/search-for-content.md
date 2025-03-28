@@ -4,6 +4,10 @@ description: How to search on SeyLII
 
 # Search for content
 
+{% embed url="https://youtu.be/yPBZrPueam0" %}
+
+
+
 <figure><img src="../.gitbook/assets/seylii--Law lib 1.png" alt=""><figcaption></figcaption></figure>
 
 ## How to conduct a search

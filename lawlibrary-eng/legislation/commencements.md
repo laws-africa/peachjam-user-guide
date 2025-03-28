@@ -4,6 +4,10 @@ description: How to identify commencement dates
 
 # Commencements
 
+{% embed url="https://youtu.be/bQ94Rns9vrQ" %}
+
+
+
 Conduct your research with peace of mind as we have included the commencement dates of legislation, as part of the meta data provided.&#x20;
 
 ## How to spot a commencement date&#x20;

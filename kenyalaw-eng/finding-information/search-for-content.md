@@ -4,6 +4,10 @@ description: How to search on Kenya Law
 
 # Search for content
 
+{% embed url="https://youtu.be/yPBZrPueam0" %}
+
+
+
 <figure><img src="../.gitbook/assets/kenyalaw--Law lib 1.png" alt=""><figcaption></figcaption></figure>
 
 ## How to conduct a search
