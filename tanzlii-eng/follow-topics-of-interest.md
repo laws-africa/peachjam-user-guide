@@ -7,6 +7,10 @@ description: >-
 
 # Follow topics of interest
 
+{% embed url="https://youtu.be/YUGKntJjWOM" %}
+
+
+
 We'll email you when new documents are added to a topic you’re following.
 
 ### Follow a topic of interest

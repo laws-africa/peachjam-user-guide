@@ -6,6 +6,10 @@ description: >-
 
 # Search alerts
 
+{% embed url="https://youtu.be/nxQ-aki6ZiY" %}
+
+
+
 To begin saving search alerts you need to be logged in;
 
 1. Go to the **search bar** on the site and enter your desired search query
