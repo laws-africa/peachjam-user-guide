@@ -2,7 +2,11 @@
 description: Follow the steps below to make private comments on a document.
 ---
 
-# Make comments in a document
+# Commenting in a document
+
+{% embed url="https://youtu.be/W-hIhNF0IVM" %}
+
+
 
 1. Open the document you want to work on.
 2. Ensure you are logged into your account to enable the commenting feature.
