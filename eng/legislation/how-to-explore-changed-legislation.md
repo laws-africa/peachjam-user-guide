@@ -6,8 +6,9 @@ description: >-
 
 # Changes to legislation
 
+(% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/THtER-ImAJ0" %}
-
+(% endif %)
 
 
 Did you know that you can compare previous versions of a piece of legislation, which aids comparative legal research?&#x20;
