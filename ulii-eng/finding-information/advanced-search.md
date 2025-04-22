@@ -1,10 +1,11 @@
 ---
-description: Explore Advanced search on you LII site
+description: Explore Advanced search on your LII site
 ---
 
 # Advanced search
 
-{% embed url="https://youtu.be/foigHLchj58" %}
+
+
 
 
 
