@@ -4,9 +4,7 @@ description: Explore Advanced search on you LII site
 
 # Advanced search
 
-(% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/foigHLchj58" %}
-(% endif %)
 
 
 
