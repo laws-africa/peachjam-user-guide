@@ -6,7 +6,9 @@ description: >-
 
 # Tracking the history of legislation
 
+(% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/PbJwVLmhH-o" %}
+(% endif %)
 
 ## How to track amendments to legislation&#x20;
 
