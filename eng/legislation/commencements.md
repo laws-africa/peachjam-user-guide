@@ -4,7 +4,10 @@ description: How to identify commencement dates
 
 # Commencements
 
+(% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/bQ94Rns9vrQ" %}
+(% endif %)
+
 
 
 
