@@ -4,7 +4,7 @@ description: How to search on GhaLII
 
 # Search for content
 
-{% embed url="https://youtu.be/yPBZrPueam0" %}
+
 
 
 
