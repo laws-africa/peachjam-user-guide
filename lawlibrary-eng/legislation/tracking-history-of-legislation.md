@@ -6,7 +6,9 @@ description: >-
 
 # Tracking the history of legislation
 
+
 {% embed url="https://youtu.be/PbJwVLmhH-o" %}
+
 
 ## How to track amendments to legislation&#x20;
 
