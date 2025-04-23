@@ -6,7 +6,10 @@ description: >-
 
 # Search alerts
 
+(% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/nxQ-aki6ZiY" %}
+(% endif %)
+
 
 
 
