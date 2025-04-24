@@ -6,7 +6,11 @@ description: >-
 
 # Saving a document
 
-
+(% if APPNAME == "LawLibrary" %)
+{% embed url="https://youtu.be/jKcnTikc2Go?si=7YNllHCK3ELd7MfV" %}
+(% elif APPNAME == "TanzLII" %)
+{% embed url="https://youtu.be/lkG1njsp9y0?si=rj4-WVYBzQdWSxEa" %}
+(% endif %)
 
 {% embed url="https://youtu.be/jKcnTikc2Go?si=7YNllHCK3ELd7MfV" %}
 
