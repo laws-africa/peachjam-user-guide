@@ -10,8 +10,6 @@ description: >-
 {% embed url="https://youtu.be/jKcnTikc2Go?si=7YNllHCK3ELd7MfV" %}
 
 
-{% embed url="https://youtu.be/jKcnTikc2Go?si=7YNllHCK3ELd7MfV" %}
-
 ## Save a document
 
 To begin saving a document you need to be logged in.
