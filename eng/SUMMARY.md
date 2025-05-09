@@ -2,6 +2,12 @@
 
 * [Getting started](README.md)
 
+## Personalised research
+
+* [Getting started](personalised-research/finding-legislation.md)
+* [Saving a document](personalised-research/saving-a-document.md)
+* [Commenting in a document](personalised-research/add-and-manage-comments-in-a-document.md)
+
 ## Finding information
 
 * [Search for content](finding-information/search-for-content.md)
@@ -23,12 +29,6 @@
 * [Changes to legislation](legislation/how-to-explore-changed-legislation.md)
 * [Tracking the history of legislation](legislation/tracking-history-of-legislation.md)
 * [Repealed legislation](legislation/repealed-legislation-how-to-find-it.md)
-
-## Personalised research
-
-* [Getting started](personalised-research/finding-legislation.md)
-* [Saving a document](personalised-research/saving-a-document.md)
-* [Commenting in a document](personalised-research/add-and-manage-comments-in-a-document.md)
 
 ***
 
