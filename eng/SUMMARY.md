@@ -5,7 +5,6 @@
 ## Personalised research
 
 * [Getting started](personalised-research/getting-started.md)
-* [Getting started](personalised-research/finding-legislation.md)
 * [Saving a document](personalised-research/saving-a-document.md)
 * [Commenting in a document](personalised-research/add-and-manage-comments-in-a-document.md)
 
