@@ -16,6 +16,10 @@
 * [Subject area tags](finding-information/understanding-subject-area-tags.md)
 * [Federated Search (AfricanLII)](finding-information/federated-search-on-africanlii.md)
 
+***
+
+* [Similar documents](similar-documents.md)
+
 ## Judgments
 
 * [Courts](judgments/courts.md)
