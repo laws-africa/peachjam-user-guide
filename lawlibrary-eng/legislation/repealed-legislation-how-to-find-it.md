@@ -1,5 +1,9 @@
 # Repealed legislation
 
+
+{% embed url="https://youtu.be/Q6whpa3VspQ" %}
+
+
 As you conduct your research, you will be alerted at various points that the particular piece of legislation you are viewing, has been repealed.
 
 ## Alert 1: Search results&#x20;

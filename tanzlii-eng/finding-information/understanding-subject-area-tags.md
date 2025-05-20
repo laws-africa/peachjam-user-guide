@@ -4,7 +4,9 @@ description: This guide will assist you through the site using subject area tags
 
 # Understanding subject area tags:
 
-1. Scroll down to the bottom of the page to explore a list of s**ubject area** tags.
+
+
+1. Scroll down to the bottom of the page to explore a list of subject area tags.
 
 <figure><img src="../.gitbook/assets/tanzlii--Subject area tags (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -13,7 +15,7 @@ description: This guide will assist you through the site using subject area tags
 
 ## Focus results with filters
 
-4. Clicking " [Environment, Climate and Wildlife](https://lawlibrary.org.za/taxonomy/subject-areas/subject-areas-environment-climate-and-wildlife) " subject area tag for instance returns over 558 documents.
+4. Clicking " [Environment, Climate and Wildlife](https://lawlibrary.org.za/taxonomy/subject-areas/subject-areas-environment-climate-and-wildlife) " subject area tag for instance returns a number of documents.
 
 <figure><img src="../.gitbook/assets/tanzlii--SAT docs.png" alt=""><figcaption></figcaption></figure>
 

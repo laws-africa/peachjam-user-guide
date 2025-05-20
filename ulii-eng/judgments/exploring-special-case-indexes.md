@@ -4,6 +4,8 @@ description: This guide will quickly identify cases using special case indexes.
 
 # Exploring special case indexes
 
+
+
 1. Scroll down to the bottom of the page to explore a list of **case indexes** tags.
 
 <figure><img src="../.gitbook/assets/ulii--Case indexes (2).png" alt=""><figcaption></figcaption></figure>
