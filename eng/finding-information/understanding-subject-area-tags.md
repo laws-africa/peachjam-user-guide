@@ -17,7 +17,7 @@ description: This guide will assist you through the site using subject area tags
 
 ## Focus results with filters
 
-4. Clicking " [Environment, Climate and Wildlife](https://lawlibrary.org.za/taxonomy/subject-areas/subject-areas-environment-climate-and-wildlife) " subject area tag for instance returns a number documents.
+4. Clicking " [Environment, Climate and Wildlife](https://lawlibrary.org.za/taxonomy/subject-areas/subject-areas-environment-climate-and-wildlife) " subject area tag for instance returns a number of documents.
 
 <figure><img src="../.gitbook/assets/SAT docs.png" alt=""><figcaption></figcaption></figure>
 
