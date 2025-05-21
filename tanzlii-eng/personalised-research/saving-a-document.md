@@ -7,8 +7,6 @@ description: >-
 # Saving a document
 
 
-{% embed url="https://youtu.be/lkG1njsp9y0?si=rj4-WVYBzQdWSxEa" %}
-
 
 ## Save a document
 
