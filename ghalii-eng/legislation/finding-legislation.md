@@ -6,6 +6,9 @@ description: Explore legislation using these few easy steps
 
 ## Browsing for legislation
 
+
+
+
 1. At the top of the page, click on **National Legislation** or **Provincial Legislation.**
 2. Narrow your search by clicking on either **Current legislation, Recent legislation, Subsidiary legislation, Uncommenced legislation, Repealed legislation,** or **All legislation.**
    * **Current legislation:** Legislation that is currently in force. Subsidiary legislation is grouped under each principal Act
