@@ -7,8 +7,11 @@ description: >-
 
 # Follow topics of interest
 
+(% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/YUGKntJjWOM" %}
-
+(% elif APPNAME == "TanzLII" %)
+{% embed url="https://youtu.be/jfw0Nt6eTTA" %}
+(% endif %)
 
 
 We'll email you when new documents are added to a topic you’re following.
