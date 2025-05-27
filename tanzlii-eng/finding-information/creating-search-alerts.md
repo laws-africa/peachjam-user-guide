@@ -7,6 +7,8 @@ description: >-
 # Search alerts
 
 
+{% embed url="https://youtu.be/wdU3nuFziWc" %}
+
 
 
 
