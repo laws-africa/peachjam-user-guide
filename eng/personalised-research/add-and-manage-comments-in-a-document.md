@@ -4,8 +4,11 @@ description: Follow the steps below to make private comments on a document.
 
 # Commenting in a document
 
+(% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/W-hIhNF0IVM" %}
-
+(% elif APPNAME == "TanzLII" %)
+{% embed url="https://youtu.be/CGPuikmRQTY" %}
+(% endif %)
 
 
 1. Open the document you want to work on.
