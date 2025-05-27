@@ -8,6 +8,8 @@ description: >-
 
 (% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/nxQ-aki6ZiY" %}
+(% elif APPNAME == "TanzLII" %)
+{% embed url="https://youtu.be/wdU3nuFziWc" %}
 (% endif %)
 
 
