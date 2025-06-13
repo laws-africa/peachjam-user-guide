@@ -6,6 +6,8 @@ description: Explore Advanced search on your LII site
 
 (% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/foigHLchj58" %}
+(% elif APPNAME == "TanzLII" %)
+{% embed url="https://youtu.be/nJCgGEPMHxc" %}
 (% endif %)
 
 
