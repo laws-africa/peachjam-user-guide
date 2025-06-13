@@ -5,6 +5,8 @@ description: This guide will quickly identify cases using special case indexes.
 # Exploring special case indexes
 
 
+{% embed url="https://youtu.be/pRUGa5uuxlw" %}
+
 
 1. Scroll down to the bottom of the page to explore a list of **case indexes** tags.
 
