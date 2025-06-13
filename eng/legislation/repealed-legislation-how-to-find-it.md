@@ -2,6 +2,8 @@
 
 (% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/Q6whpa3VspQ" %}
+(% elif APPNAME == "TanzLII" %)
+{% embed url="https://youtu.be/uQFJk8qLQrU" %}
 (% endif %)
 
 As you conduct your research, you will be alerted at various points that the particular piece of legislation you are viewing, has been repealed.
