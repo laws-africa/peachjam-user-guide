@@ -6,6 +6,8 @@ description: This guide will quickly identify cases using special case indexes.
 
 (% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/Pr73o-IKr4g" %}
+(% elif APPNAME == "TanzLII" %)
+{% embed url="https://youtu.be/pRUGa5uuxlw" %}
 (% endif %)
 
 1. Scroll down to the bottom of the page to explore a list of **case indexes** tags.
