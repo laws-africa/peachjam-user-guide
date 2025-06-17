@@ -5,6 +5,8 @@ description: This guide will assist you through the site using subject area tags
 # Understanding subject area tags:
 
 
+{% embed url="https://youtu.be/ejznqXuamrA" %}
+
 
 1. Scroll down to the bottom of the page to explore a list of subject area tags.
 
