@@ -6,6 +6,8 @@ description: This guide will assist you through the site using subject area tags
 
 (% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/gILpa-Ljauk" %}
+(% elif APPNAME == "TanzLII" %)
+{% embed url="https://youtu.be/ejznqXuamrA" %}
 (% endif %)
 
 1. Scroll down to the bottom of the page to explore a list of subject area tags.
