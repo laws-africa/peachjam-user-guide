@@ -8,6 +8,8 @@ description: Explore legislation using these few easy steps
 
 (% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/KWTv6BXvjlQ" %}
+(% elif APPNAME == "TanzLII" %)
+{% embed url="https://youtu.be/pMkyGNuA89Q" %}
 (% endif %)
 
 
