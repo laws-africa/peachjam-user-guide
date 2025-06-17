@@ -7,6 +7,8 @@ description: Explore legislation using these few easy steps
 ## Browsing for legislation
 
 
+{% embed url="https://youtu.be/pMkyGNuA89Q" %}
+
 
 
 1. At the top of the page, click on **National Legislation** or **Provincial Legislation.**
