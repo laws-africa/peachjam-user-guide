@@ -5,6 +5,8 @@ description: How to identify commencement dates
 # Commencements
 
 
+{% embed url="https://youtu.be/ijS9wRhsSPA" %}
+
 
 
 

@@ -7,6 +7,8 @@ description: >-
 # Changes to legislation
 
 
+{% embed url="https://youtu.be/VWLiGNuMKe4" %}
+
 
 
 Did you know that you can compare previous versions of a piece of legislation, which aids comparative legal research?&#x20;
