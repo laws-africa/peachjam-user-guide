@@ -5,7 +5,7 @@ description: How to identify commencement dates
 # Commencements
 
 (% if APPNAME == "LawLibrary" %)
-{% embed url="https://youtu.be/bQ94Rns9vrQ" %}
+{% embed url="https://youtu.be/sVhMeZ2UL_4" %}
 (% elif APPNAME == "TanzLII" %)
 {% embed url="https://youtu.be/ijS9wRhsSPA" %}
 (% elif APPNAME == "ULII" %)
