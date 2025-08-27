@@ -6,6 +6,10 @@ description: >-
 
 # Search inside a document
 
+(% if APPNAME == "LawLibrary" %)
+{% embed url="https://youtu.be/ycq8pihns3A" %}
+(% endif %)
+
 <div align="left"><figure><img src="../.gitbook/assets/Law lib 4.png" alt=""><figcaption></figcaption></figure></div>
 
 ## How to search inside a document
