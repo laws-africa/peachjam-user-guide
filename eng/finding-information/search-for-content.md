@@ -5,7 +5,7 @@ description: How to search on %%APPNAME%%
 # Search for content
 
 (% if APPNAME == "LawLibrary" %)
-{% embed url="https://youtu.be/yPBZrPueam0" %}
+{% embed url="https://youtu.be/v5vcShqFnfE" %}
 (% elif APPNAME == "TanzLII" %)
 {% embed url="https://youtu.be/a_5jF8zM-24" %}
 (% elif APPNAME == "ULII" %)
