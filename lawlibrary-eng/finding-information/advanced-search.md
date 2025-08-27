@@ -5,7 +5,7 @@ description: Explore Advanced search on your LII site
 # Advanced search
 
 
-{% embed url="https://youtu.be/foigHLchj58" %}
+{% embed url="https://youtu.be/_jPIzXFx6sM" %}
 
 
 
