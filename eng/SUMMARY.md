@@ -7,6 +7,7 @@
 * [Getting started](personalised-research/getting-started.md)
 * [Saving a document](personalised-research/saving-a-document.md)
 * [Commenting in a document](personalised-research/add-and-manage-comments-in-a-document.md)
+* [Upgrade your subscription](personalised-research/upgrade-your-subscription.md)
 
 ## Finding information
 
