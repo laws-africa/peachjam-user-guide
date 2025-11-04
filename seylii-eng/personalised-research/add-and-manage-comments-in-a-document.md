@@ -6,15 +6,14 @@ description: Follow the steps below to make private comments on a document.
 
 
 
-
 1. Open the document you want to work on.
 2. Ensure you are logged into your account to enable the commenting feature.
 3. Navigate through the document and locate the section you want to comment on.
 4. Click and drag your cursor over the specific text to highlight it, a pop-up menu appears next to the highlighted text.
 
-<figure><img src="../.gitbook/assets/seylii--comments 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/seylii--comment LL 1.png" alt=""><figcaption></figcaption></figure>
 
-5. Click the"**Add comment**" option in the pop-up.
+5. Click the"**Comment**" option in the pop-up.
 6. Type your comment in the text box.
 7. Click "Save" to confirm your comment and ensure the document is saved if it has not already been saved.
 

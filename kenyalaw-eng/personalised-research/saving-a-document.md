@@ -15,7 +15,7 @@ To begin saving a document you need to be logged in.
 1. Open the document you want to view.
 2. Click the **Save document** button at the top of the page.
 
-<div align="left"><figure><img src="../.gitbook/assets/kenyalaw--Save doc 1.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/kenyalaw--Saving doc LL 1.png" alt=""><figcaption></figcaption></figure></div>
 
 3. A **Document saved** pop-up will appear.
 
