@@ -7,11 +7,17 @@ description: >-
 # Saving a document
 
 (% if APPNAME == "LawLibrary" %)
+
 {% embed url="https://youtu.be/2wo2-n6jXSA" %}
+
 (% elif APPNAME == "TanzLII" %)
+
 {% embed url="https://youtu.be/PAu6Oz06jy8" %}
+
 (% elif APPNAME == "ULII" %)
+
 {% embed url="https://youtu.be/6PKk3Wu2cIo" %}
+
 (% endif %)
 
 ## Save a document
@@ -21,7 +27,7 @@ To begin saving a document you need to be logged in.
 1. Open the document you want to view.
 2. Click the **Save document** button at the top of the page.
 
-<div align="left"><figure><img src="../.gitbook/assets/Save doc 1.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Saving doc LL 1.png" alt=""><figcaption></figcaption></figure></div>
 
 3. A **Document saved** pop-up will appear.
 
