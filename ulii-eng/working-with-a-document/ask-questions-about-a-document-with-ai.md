@@ -19,5 +19,3 @@ description: The Ask AI tool helps you quickly understand any part of a legal do
 7. Click the **close icon** to collapse the dialog without deleting the conversation. You can pick up right where you left off when you return to that document.
 
 <div align="left"><figure><img src="../.gitbook/assets/ulii--a1 4.png" alt=""><figcaption></figcaption></figure></div>
-
-\
