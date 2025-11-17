@@ -50,6 +50,7 @@
 
 * [Search inside a document](working-with-a-document/search-inside-a-document.md)
 * [Document table of contents](working-with-a-document/document-table-of-contents-toc.md)
+* [Ask questions about a document with AI](working-with-a-document/ask-questions-about-a-document-with-ai.md)
 
 ## Additional resources
 
