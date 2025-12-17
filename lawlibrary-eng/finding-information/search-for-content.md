@@ -4,13 +4,9 @@ description: How to search on LawLibrary
 
 # Search for content
 
-
 {% embed url="https://youtu.be/v5vcShqFnfE" %}
 
-
-
-
-<figure><img src="../.gitbook/assets/lawlibrary--Law lib 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Law lib 1.png" alt=""><figcaption></figcaption></figure>
 
 ## How to conduct a search
 
@@ -21,17 +17,17 @@ description: How to search on LawLibrary
 
 ## Focus results with filters
 
- Here’s an example. A search for **"climate change"** returns over 600 documents. 
+Here’s an example. A search for **"climate change"** returns over 600 documents.
 
-<figure><img src="../.gitbook/assets/lawlibrary--Law lib 1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Law lib 1 (1).png" alt=""><figcaption></figcaption></figure>
 
 Apply the **Act filters** on the left-hand side to isolate legislation only.
 
-<figure><img src="../.gitbook/assets/lawlibrary--Law lib 2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Law lib 2 (1).png" alt=""><figcaption></figcaption></figure>
 
 Use **multiple filters** to refine your search. Let’s look for an **Act** from **2019**
 
-<figure><img src="../.gitbook/assets/lawlibrary--Law lib 3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Law lib 3 (1).png" alt=""><figcaption></figcaption></figure>
 
 The search feature makes it easy to find exactly what you’re looking for.
 

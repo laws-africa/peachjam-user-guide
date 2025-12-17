@@ -11,7 +11,7 @@ You can efficiently explore a large document, by using the table of contents to 
 1. Locate the legislation
 2. Open the document to view the **Table of contents** on the left-hand side of the page.
 
-<figure><img src="../.gitbook/assets/lawlibrary--TOC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TOC.png" alt=""><figcaption></figcaption></figure>
 
 3. Scroll through the **Table of Contents** using the scroll bar on the right to view the various sections.
 4. Alternatively, you can use the **Search table of contents** to perform a search in the table of contents.
