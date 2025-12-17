@@ -18,7 +18,7 @@ The functionality is available in two primary areas:
 2. Click on the **Related documents** tab
 3. Look out for the **More documents like this one** section
 
-<figure><img src=".gitbook/assets/per doc same.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/lawlibrary--per doc same.png" alt=""><figcaption></figcaption></figure>
 
 ### How to access similar documents within your saved folders
 
@@ -27,4 +27,4 @@ The functionality is available in two primary areas:
 3. Click **Suggested for this folder** tab to view similar document recommendations for that folder
 4. The list shows AI-generated suggestions of documents similar to those saved in the folder
 
-<figure><img src=".gitbook/assets/similar saved.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/lawlibrary--similar saved.png" alt=""><figcaption></figcaption></figure>
