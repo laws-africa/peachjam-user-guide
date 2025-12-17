@@ -9,10 +9,10 @@ description: >-
 To access Pocket Law:
 
 1. Go to the homepage
-2. Scroll to the bottom of the homepage&#x20;
+2. Scroll to the bottom of the homepage
 3. Click the **Pocket Law** button
 
-<div align="left"><figure><img src="../.gitbook/assets/ulii--tz 17.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/ghalii--tz 17.png" alt=""><figcaption></figcaption></figure></div>
 
 4. **Download** Pocket Law for your specific operating system whether it's Windows or Mac
 5. Click on the .exe file to begin the installation process
@@ -20,8 +20,8 @@ To access Pocket Law:
 7. Once installed, Pocket Law will launch automatically
 8. Click the **Updates link** on the top right corner to download the latest content
 
-<div align="left"><figure><img src="../.gitbook/assets/ulii--Updates Pocket Law.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Updates Pocket Law.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 9. Install the content packs you want for offline access
 
-<div align="left"><figure><img src="../.gitbook/assets/ulii--content packs.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/content packs.png" alt="" width="563"><figcaption></figcaption></figure></div>
