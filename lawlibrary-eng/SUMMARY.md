@@ -8,10 +8,6 @@
 * [Saving a document](personalised-research/saving-a-document.md)
 * [Commenting in a document](personalised-research/add-and-manage-comments-in-a-document.md)
 
-## SUBSCRIPTION MANAGEMENT
-
-* [Upgrade your subscription](subscription-management/upgrade-your-subscription.md)
-
 ## Finding information
 
 * [Search for content](finding-information/search-for-content.md)
@@ -42,15 +38,15 @@
 
 * [Follow topics of interest](follow-topics-of-interest.md)
 
-## Collaboration
-
-* [Share saved documents](collaboration/share-saved-documents.md)
-
 ## Working with a document
 
 * [Search inside a document](working-with-a-document/search-inside-a-document.md)
 * [Document table of contents](working-with-a-document/document-table-of-contents-toc.md)
 * [Ask questions about a document with AI](working-with-a-document/ask-questions-about-a-document-with-ai.md)
+
+## SUBSCRIPTION MANAGEMENT
+
+* [Upgrade your subscription](subscription-management/upgrade-your-subscription.md)
 
 ## Additional resources
 
