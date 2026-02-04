@@ -33,6 +33,7 @@
 * [Changes to legislation](legislation/how-to-explore-changed-legislation.md)
 * [Tracking the history of legislation](legislation/tracking-history-of-legislation.md)
 * [Repealed legislation](legislation/repealed-legislation-how-to-find-it.md)
+* [Glossary of defined terms](legislation/glossary-of-defined-terms.md)
 
 ***
 
