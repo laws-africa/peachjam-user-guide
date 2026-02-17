@@ -62,8 +62,22 @@ is changed to
 <figure><img src="../.gitbook/assets/lawlibrary--search 1.png" alt=""><figcaption></figcaption></figure>
 ```
 
-and a copy of `search 1.png` is created called `lawlibrary--search 1.png`.
+and each site variant expects a file called `lawlibrary--search 1.png`.
 
-To localise `search 1.png` for LawLibrary, upload the localised image to `.gitbook/assets/lawlibrary--search 1.png`.
-That image will then be used for LawLibrary.
+To localise `search 1.png` for LawLibrary, place the override image at:
 
+`site-images/lawlibrary/eng/search 1.png`
+
+The build script will prefix and copy it into:
+
+`lawlibrary-eng/.gitbook/assets/lawlibrary--search 1.png`
+
+### Override precedence
+
+For each source asset `<name>` during a site build:
+
+1. `site-images/<appcode>/<lang>/<name>` (preferred)
+2. `site-images/<appcode>/<lang>/<appcode>--<name>` (supported)
+3. `<lang>/.gitbook/assets/<name>` (default image)
+
+Note: the build no longer writes prefixed images back into source `.gitbook/assets`.

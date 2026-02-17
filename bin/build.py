@@ -29,24 +29,36 @@ def process_file(env, file_path, context):
     return processed_content
 
 def copy_assets(src, dst, site):
-    """Copy localised versions of assets. Assets are localised by adding a site prefix, such as lawlibrary--foo.png.
-    If that file doesn't exist, the original is copied to create it.
+    """Copy localised assets into a site variant.
+
+    Override source: site-images/<appcode>/<lang>/<asset-filename>
+    Default fallback: <lang>/.gitbook/assets/<asset-filename>
     """
     assets_dir = os.path.join(src, '.gitbook', 'assets')
-    files = {entry.name: entry for entry in os.scandir(assets_dir) if entry.is_file()}
-
+    override_dir = os.path.join("site-images", site["APPCODE"], site["LANG"])
+    dst_assets_dir = os.path.join(dst, '.gitbook', 'assets')
     prefix = f'{site["APPCODE"]}--'
 
-    for fname, entry in files.items():
-        if '--' not in fname:
-            local_fname = prefix + fname
-            if local_fname not in files:
-                # create a localised copy
-                shutil.copy(entry.path, os.path.join(assets_dir, local_fname))
+    os.makedirs(dst_assets_dir, exist_ok=True)
 
-    for fname, entry in files.items():
-        if fname.startswith(prefix):
-            shutil.copy(entry.path, os.path.join(dst, '.gitbook', 'assets', fname))
+    base_assets = {
+        entry.name: entry.path
+        for entry in os.scandir(assets_dir)
+        if entry.is_file() and '--' not in entry.name
+    }
+
+    for fname, base_path in base_assets.items():
+        override_unprefixed_path = os.path.join(override_dir, fname)
+        override_prefixed_path = os.path.join(override_dir, f"{prefix}{fname}")
+
+        if os.path.exists(override_unprefixed_path):
+            src_path = override_unprefixed_path
+        elif os.path.exists(override_prefixed_path):
+            src_path = override_prefixed_path
+        else:
+            src_path = base_path
+
+        shutil.copy(src_path, os.path.join(dst_assets_dir, f"{prefix}{fname}"))
 
 
 def copy_and_process_tree(src, dst, site):
