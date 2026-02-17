@@ -44,40 +44,21 @@ syntax used by Gitbook.
 
 Consult the [Jinja template documentation](https://jinja.palletsprojects.com/en/stable/templates/) for more details.
 
-## Image variants
+## Localised image variants
 
-Images are stored in the `.gitbook/assets` directory. When a new website variant is created, a copy
-is made of each image file, using the name of the website. The website Markdown files are updated to reference the
-localised version of the file.
+The base images are stored in the `.gitbook/assets` directory. Localised variants of each image are stored in the
+`_site-images` directory.
 
-For example, a reference to an image like the following:
+For example, to localise `search 1.png` for TanzLII, put the localised image (with exactly the same filename) at:
 
-```markdown
-<figure><img src="../.gitbook/assets/search 1.png" alt=""><figcaption></figcaption></figure>
-```
+`_site-images/tanzlii/eng/search 1.png`
 
-is changed to
-
-```markdown
-<figure><img src="../.gitbook/assets/lawlibrary--search 1.png" alt=""><figcaption></figcaption></figure>
-```
-
-and each site variant expects a file called `lawlibrary--search 1.png`.
-
-To localise `search 1.png` for LawLibrary, place the override image at:
-
-`_site-images/lawlibrary/eng/search 1.png`
-
-The build script will prefix and copy it into:
-
-`lawlibrary-eng/.gitbook/assets/lawlibrary--search 1.png`
+During the build process, that image will be copied to `.gitbook/assets/tanzlii--search 1.png` for TanzLII, and GitBook
+will use that image for the TanzLII documentation.
 
 ### Override precedence
 
 For each source asset `<name>` during a site build:
 
 1. `_site-images/<appcode>/<lang>/<name>` (preferred)
-2. `_site-images/<appcode>/<lang>/<appcode>--<name>` (supported)
-3. `<lang>/.gitbook/assets/<name>` (default image)
-
-Note: the build no longer writes prefixed images back into source `.gitbook/assets`.
+2. `<lang>/.gitbook/assets/<name>` (default image)
