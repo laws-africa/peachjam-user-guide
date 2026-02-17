@@ -31,11 +31,11 @@ def process_file(env, file_path, context):
 def copy_assets(src, dst, site):
     """Copy localised assets into a site variant.
 
-    Override source: site-images/<appcode>/<lang>/<asset-filename>
+    Override source: _site-images/<appcode>/<lang>/<asset-filename>
     Default fallback: <lang>/.gitbook/assets/<asset-filename>
     """
     assets_dir = os.path.join(src, '.gitbook', 'assets')
-    override_dir = os.path.join("site-images", site["APPCODE"], site["LANG"])
+    override_dir = os.path.join("_site-images", site["APPCODE"], site["LANG"])
     dst_assets_dir = os.path.join(dst, '.gitbook', 'assets')
     prefix = f'{site["APPCODE"]}--'
 

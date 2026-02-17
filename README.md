@@ -66,7 +66,7 @@ and each site variant expects a file called `lawlibrary--search 1.png`.
 
 To localise `search 1.png` for LawLibrary, place the override image at:
 
-`site-images/lawlibrary/eng/search 1.png`
+`_site-images/lawlibrary/eng/search 1.png`
 
 The build script will prefix and copy it into:
 
@@ -76,8 +76,8 @@ The build script will prefix and copy it into:
 
 For each source asset `<name>` during a site build:
 
-1. `site-images/<appcode>/<lang>/<name>` (preferred)
-2. `site-images/<appcode>/<lang>/<appcode>--<name>` (supported)
+1. `_site-images/<appcode>/<lang>/<name>` (preferred)
+2. `_site-images/<appcode>/<lang>/<appcode>--<name>` (supported)
 3. `<lang>/.gitbook/assets/<name>` (default image)
 
 Note: the build no longer writes prefixed images back into source `.gitbook/assets`.

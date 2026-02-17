@@ -25,7 +25,7 @@ This repo stores GitBook user documentation for Peachjam-based legal information
 - `eng/**`
 - `fra/**`
 - `bin/**`
-- `site-images/**`
+- `_site-images/**`
 - `.github/workflows/**`
 - `peachjam.json`
 - `requirements.txt`
@@ -82,11 +82,11 @@ Assets live under each source language at `.gitbook/assets`.
 Build behavior:
 
 - Markdown image `src` paths to `.gitbook/assets/...` are rewritten to site-prefixed names like `lawlibrary--file.png`.
-- Site-specific overrides are sourced from `site-images/<appcode>/<lang>/`.
+- Site-specific overrides are sourced from `_site-images/<appcode>/<lang>/`.
 - If no override exists, the default `<lang>/.gitbook/assets/<file>` is used.
 - The build copies assets into generated variant folders as prefixed names.
 
-When localising screenshots for a specific site, place overrides in `site-images/<appcode>/<lang>/`.
+When localising screenshots for a specific site, place overrides in `_site-images/<appcode>/<lang>/`.
 
 ## Safe Editing Workflow for Agents
 
