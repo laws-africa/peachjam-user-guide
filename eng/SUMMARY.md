@@ -6,6 +6,7 @@
 
 * [Getting started](personalised-research/getting-started.md)
 * [Saving a document](personalised-research/saving-a-document.md)
+* [Images](personalised-research/images.md)
 * [Commenting in a document](personalised-research/add-and-manage-comments-in-a-document.md)
 
 ## Finding information
