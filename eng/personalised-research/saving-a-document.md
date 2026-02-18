@@ -6,32 +6,18 @@ description: >-
 
 # Saving a document
 
-(% if APPNAME == "LawLibrary" %)
-
-{% embed url="https://youtu.be/2wo2-n6jXSA" %}
-
-(% elif APPNAME == "TanzLII" %)
-
-{% embed url="https://youtu.be/PAu6Oz06jy8" %}
-
-(% elif APPNAME == "ULII" %)
-
-{% embed url="https://youtu.be/6PKk3Wu2cIo" %}
-
-(% endif %)
-
 ## Save a document
 
-To begin saving a document you need to be logged in.
+To begin saving a document, you need to be logged in.
 
-1. Open the document you want to view.
-2. Click the **Save document** button at the top of the page.
+1. Open the document you want to view
+2. Click the **Save document** button at the top of the page
 
-<div align="left"><figure><img src="../.gitbook/assets/Saving doc LL 1.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/savedoc1.png" alt=""><figcaption></figcaption></figure>
 
-3. A **Document saved** pop-up will appear.
+3. A **Document saved** pop-up will appear
 
-<div align="left"><figure><img src="../.gitbook/assets/save doc 2.png" alt="" width="468"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/savedoc2.png" alt=""><figcaption></figcaption></figure>
 
 4. Click the dropdown menu to select an existing folder or choose **New folder...**&#x74;o create a new one.
 5. Click the **Save** button to save.
@@ -47,6 +33,6 @@ Manage your saved documents and organise them into folders.
 3. Organised your documents into folders.
 4. Click **Download to Excel** to download all the details of a folder into an Excel spreadsheet.
 
-<div align="left"><figure><img src="../.gitbook/assets/save doc 4.png" alt="" width="522"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/savedoc3.png" alt=""><figcaption></figcaption></figure>
 
-<div align="left"><figure><img src="../.gitbook/assets/save doc 3.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/savedoc4.png" alt=""><figcaption></figcaption></figure>
