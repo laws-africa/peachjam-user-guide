@@ -5,6 +5,8 @@
 ## Personalised research
 
 * [Getting started](personalised-research/getting-started.md)
+* [Creating an account](personalised-research/creating-an-account.md)
+* [How to reset your password](personalised-research/how-to-reset-your-password.md)
 * [Saving a document](personalised-research/saving-a-document.md)
 * [Commenting in a document](personalised-research/add-and-manage-comments-in-a-document.md)
 
