@@ -6,22 +6,22 @@ description: Resetting your password on LawLibrary
 
 1. Click **Forgot your password?** below the password field on the login page
 
-<figure><img src="../.gitbook/assets/ulii--forgot 1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ulii--forgotpassword1.png" alt=""><figcaption></figcaption></figure>
 
 2. Go to the **Reset your password** page, enter the email address linked to your LawLibrary account&#x20;
 3. Click **Reset password**
 
-<figure><img src="../.gitbook/assets/ulii--forgot 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ulii--forgotpassword2.png" alt=""><figcaption></figcaption></figure>
 
 4. Check your email for a Reset your password message.
 
-<figure><img src="../.gitbook/assets/ulii--forgot 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ulii--forgotpassword3.png" alt=""><figcaption></figcaption></figure>
 
 5. Click the **Reset your password** button in the email to set a new password.
 6. Enter your **new password**, confirm it, and click **Reset password**.
 
-<figure><img src="../.gitbook/assets/ulii--forgot 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ulii--forgotpassword4.png" alt=""><figcaption></figcaption></figure>
 
 7. Click **Log in** using your new password to sign in once your password has been successfully changed.
 
-<figure><img src="../.gitbook/assets/ulii--forgot 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ulii--forgotpassword5.png" alt=""><figcaption></figcaption></figure>
