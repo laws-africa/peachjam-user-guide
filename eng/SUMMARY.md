@@ -8,8 +8,7 @@
 * [Creating an account](personalised-research/creating-an-account.md)
 * [How to reset your password](personalised-research/how-to-reset-your-password.md)
 * [Saving a document](personalised-research/saving-a-document.md)
-* [Commenting in a document](personalised-research/add-and-manage-comments-in-a-document.md)
-* [Comment in a document](personalised-research/comment-in-a-document.md)
+* [Commenting in a document](personalised-research/commenting-in-a-document.md)
 
 ## Finding information
 
