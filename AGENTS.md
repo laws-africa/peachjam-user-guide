@@ -19,6 +19,59 @@ This repo stores GitBook user documentation for Peachjam-based legal information
 - Expect generated folders to be overwritten by `bin/build.py` and by CI.
 - Keep changes minimal and targeted; avoid repo-wide formatting churn.
 
+## Documentation Audience and Writing Goals
+
+Write documentation for non-technical legal researchers first.
+
+- Primary persona 1: judges and magistrates doing legal research, often cautious with technology and unlikely to experiment.
+- Primary persona 2: students and junior legal practitioners who are more comfortable exploring, but still need clear guidance on capability and process.
+- Optimise for confidence: write predictable, explicit steps that reduce uncertainty.
+- Explain capability: show what users can do and why it is useful for legal research.
+
+## Tone, Voice, and Language
+
+- Tone: friendly, semi-formal, direct, and simple.
+- Use plain language and short sentences.
+- Use active voice and action-led instructions.
+- Use UK English spelling and conventions consistently.
+- Avoid vague/promotional phrasing; prefer concrete outcomes and user benefit.
+
+## Page Openings (Problem-First)
+
+At the start of each page, explain:
+
+- the user problem,
+- how the feature solves it, and
+- why it matters in legal research.
+
+Do not begin with technical detail alone.
+
+## Procedure Writing Standards
+
+- Use numbered steps for task procedures.
+- Keep one clear action per step.
+- Keep step sequences short. If a procedure is long, split it into smaller logical sections.
+- For complex tasks, guide users with screenshots as they progress.
+- For important docs, include video where available.
+- Use exact UI labels as shown in the product.
+
+## Troubleshooting Guidance
+
+- Include troubleshooting only when there are known failure points or common user confusion.
+- Do not add a troubleshooting section by default if there are no known issues.
+
+## Accessibility and Media
+
+- Add meaningful `alt` text for instructional screenshots.
+- Avoid empty `alt=""` for screenshots that carry instructional context.
+- Keep screenshot references aligned to the step they support.
+
+## Terminology and Consistency
+
+- Keep terminology consistent across pages.
+- Prefer canonical wording for repeated concepts and controls.
+- Use consistent casing for feature names and navigation labels.
+
 ## File Change Policy (Strict)
 
 - Only change source files (code and docs), such as:
@@ -110,3 +163,9 @@ Default to preserving current generation behavior and ask before introducing str
 - template delimiters
 - workflow trigger/auto-commit behavior
 - asset rewrite rules
+
+For documentation decisions, default to:
+
+- user confidence over completeness,
+- clarity over brevity, and
+- `eng/` as source of truth with `fra/` catching up through translation.
