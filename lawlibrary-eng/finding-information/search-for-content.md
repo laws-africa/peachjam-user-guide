@@ -2,7 +2,7 @@
 description: How to search on LawLibrary
 ---
 
-# Search for content
+# Search content
 
 
 {% embed url="https://youtu.be/v5vcShqFnfE" %}

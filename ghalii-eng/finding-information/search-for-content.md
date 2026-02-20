@@ -2,7 +2,7 @@
 description: How to search on GhaLII
 ---
 
-# Search for content
+# Search content
 
 
 

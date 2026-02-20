@@ -2,7 +2,7 @@
 description: How to search on Kenya Law
 ---
 
-# Search for content
+# Search content
 
 
 

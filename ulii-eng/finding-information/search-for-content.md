@@ -2,7 +2,7 @@
 description: How to search on ULII
 ---
 
-# Search for content
+# Search content
 
 
 {% embed url="https://youtu.be/nCDOeb3uuN8" %}

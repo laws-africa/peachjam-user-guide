@@ -2,7 +2,7 @@
 description: This guide will assist you through the site using subject area tags.
 ---
 
-# Understanding subject area tags:
+# Subject area tags
 
 
 {% embed url="https://youtu.be/ejznqXuamrA" %}

@@ -2,7 +2,7 @@
 description: How to search on SeyLII
 ---
 
-# Search for content
+# Search content
 
 
 

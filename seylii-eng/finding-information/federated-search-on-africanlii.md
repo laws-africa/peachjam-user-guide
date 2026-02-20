@@ -4,7 +4,7 @@ description: >-
   AfricanLII.
 ---
 
-# Federated Search on AfricanLII
+# Federated search (AfricanLII)
 
 ## How to conduct Federated Search
 

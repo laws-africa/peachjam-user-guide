@@ -4,7 +4,7 @@ description: >-
   history of legislation and what amendments have been applied.
 ---
 
-# Tracking the history of legislation
+# Track legislation history
 
 
 {% embed url="https://youtu.be/PbJwVLmhH-o" %}
