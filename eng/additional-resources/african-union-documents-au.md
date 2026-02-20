@@ -2,7 +2,7 @@
 description: A brief guide on finding the African Union organs and the documents.
 ---
 
-# African union documents (AU)
+# African Union documents (AU)
 
 To access AU organs and their documentation:
 

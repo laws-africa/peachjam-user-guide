@@ -2,7 +2,7 @@
 description: This guide will quickly identify cases using special case indexes.
 ---
 
-# Exploring special case indexes
+# Explore special case indexes
 
 (% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/Pr73o-IKr4g" %}

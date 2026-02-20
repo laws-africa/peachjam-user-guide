@@ -2,7 +2,7 @@
 description: Personalise your research experience.
 ---
 
-# Getting started
+# Personalised research overview
 
 Use saved documents, comments and other features to personalise your research experience and find what you're looking for more easily.
 

@@ -2,7 +2,7 @@
 description: How to search on %%APPNAME%%
 ---
 
-# Search for content
+# Search content
 
 (% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/v5vcShqFnfE" %}
