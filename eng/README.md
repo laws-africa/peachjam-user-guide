@@ -18,12 +18,12 @@ description: Find, research and share legal information on %%APPNAME%%.
 
 * [Advanced search](finding-information/advanced-search.md)
 * [Subject area tags](finding-information/understanding-subject-area-tags.md)
-* [Similar documents](similar-documents.md)
+* [Similar documents](finding-information/similar-documents.md)
 
 ## Personalise your research
 
 * [Getting started](personalised-research/getting-started.md)
 * [Saving a document](personalised-research/saving-a-document.md)
 * [Commenting in a document](personalised-research/add-and-manage-comments-in-a-document.md)
-* [Search alerts](finding-information/creating-search-alerts.md)
-* [Follow topics of interest](follow-topics-of-interest.md)
+* [Search alerts](personalised-research/creating-search-alerts.md)
+* [Follow topics of interest](personalised-research/follow-topics-of-interest.md)
