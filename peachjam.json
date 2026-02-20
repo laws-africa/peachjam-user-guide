@@ -1,5 +1,9 @@
 {
   "sites": [{
+    "APPNAME": "Legal Information Website",
+    "APPURL": "",
+    "languages": ["eng"]
+  }, {
     "APPNAME": "GhaLII",
     "APPURL": "https://ghalii.org",
     "languages": ["eng"]
