@@ -2,7 +2,7 @@
 description: Explore legislation using these few easy steps
 ---
 
-# Finding legislation
+# Find legislation
 
 ## Browsing for legislation
 
