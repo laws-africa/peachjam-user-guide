@@ -31,6 +31,5 @@ LawLibrary helps you quickly find legal information and navigate documents with 
 ## Your account
 
 * [Create an account](your-account/create-an-account.md)
-* [Sign in and sign out](your-account/sign-in-and-sign-out.md)
 * [Reset your password](your-account/reset-your-password.md)
 * [Get help and support](additional-resources/get-help-and-support.md)
