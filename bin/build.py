@@ -11,7 +11,11 @@ def process_file(env, file_path, context):
         content = file.read()
 
     # Replace placeholders with context values
-    template = env.from_string(content)
+    try:
+        template = env.from_string(content)
+    except:
+        print(f"Error processing {file_path}")
+        raise
     processed_content = template.render(context)
 
     # replace the src with the localised version

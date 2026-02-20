@@ -8,7 +8,7 @@ If you are blocked or unsure what to do next, you can contact the %%APPNAME%% su
 
 ## Contact support
 
-1. Open your browser and go to [%%APPURL%%/about/](%%APPURL%%/about/).
+1. Open your browser and go to %%APPURL%%/about/
 2. Use the contact details on that page to reach the support team.
 
 ## Before you contact support
