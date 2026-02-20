@@ -31,11 +31,17 @@
 * [Document table of contents](working-with-a-document/document-table-of-contents-toc.md)
 * [Ask questions about a document with AI](working-with-a-document/ask-questions-about-a-document-with-ai.md)
 
+## Your account
+
+* [Create an account](your-account/create-an-account.md)
+* [Reset your password](your-account/reset-your-password.md)
+* [Manage your account](your-account/manage-your-account.md)
+
 ## Personalised research
 
 * [Personalised research overview](personalised-research/getting-started.md)
 * [Saving a document](personalised-research/saving-a-document.md)
-* [Commenting in a document](personalised-research/add-and-manage-comments-in-a-document.md)
+* [Commenting in a document](personalised-research/commenting-in-a-document.md)
 * [Follow topics of interest](personalised-research/follow-topics-of-interest.md)
 * [Search alerts](personalised-research/creating-search-alerts.md)
 
@@ -47,3 +53,4 @@
 
 * [Pocket Law](additional-resources/pocket-law.md)
 * [African Union documents (AU)](additional-resources/african-union-documents-au.md)
+* [Get help and support](additional-resources/get-help-and-support.md)
