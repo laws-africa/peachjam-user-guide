@@ -6,6 +6,10 @@ description: >-
 
 # Search inside a document
 
+
+{% embed url="https://youtu.be/ycq8pihns3A" %}
+
+
 <div align="left"><figure><img src="../.gitbook/assets/lawlibrary--Law lib 4.png" alt=""><figcaption></figcaption></figure></div>
 
 ## How to search inside a document

@@ -6,6 +6,8 @@ description: >-
 
 # Search inside a document
 
+
+
 <div align="left"><figure><img src="../.gitbook/assets/ulii--Law lib 4.png" alt=""><figcaption></figcaption></figure></div>
 
 ## How to search inside a document
