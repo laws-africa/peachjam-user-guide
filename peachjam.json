@@ -1,8 +1,9 @@
 {
   "sites": [{
+    "APPCODE": "liiweb",
     "APPNAME": "Legal Information Website",
     "APPURL": "",
-    "languages": ["eng"]
+    "languages": ["eng", "fra"]
   }, {
     "APPNAME": "GhaLII",
     "APPURL": "https://ghalii.org",
