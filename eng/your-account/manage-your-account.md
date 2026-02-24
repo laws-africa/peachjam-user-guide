@@ -13,5 +13,12 @@ Your account area helps you keep your profile details up to date and manage your
 
 ## What you can manage
 
-- Account details such as your name, email address, or password.
+(% if AUTH_OTP %)
+
+- Account details such as your name and email address.
+- Your password (you can set one if you prefer to log in with a password instead of an email code).
 - Subscription and billing information (where available).
+  (% else %)
+- Account details such as your name, email address, and password.
+- Subscription and billing information (where available).
+  (% endif %)
