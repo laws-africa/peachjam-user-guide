@@ -24,7 +24,6 @@
   }, {
     "APPNAME": "TanzLII",
     "APPURL": "https://tanzlii.org",
-    "AUTH_OTP": true,
     "languages": ["eng"]
   }, {
     "APPNAME": "ULII",
