@@ -13,5 +13,9 @@ Your account area helps you keep your profile details up to date and manage your
 
 ## What you can manage
 
-- Account details such as your name, email address, or password.
+
+
+- Account details such as your name and email address.
+- Your password (you can set one if you prefer to log in with a password instead of an email code).
 - Subscription and billing information (where available).
+  

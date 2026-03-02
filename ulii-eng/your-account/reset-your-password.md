@@ -6,6 +6,8 @@ description: Reset your ULII password if you cannot log in.
 
 If you cannot log in, resetting your password helps you regain access without creating a new account.
 
+
+
 ## Reset your password
 
 1. Click **Log in**.
@@ -15,6 +17,8 @@ If you cannot log in, resetting your password helps you regain access without cr
 5. Open the password reset email and click the reset link.
 6. Create and confirm your new password.
 7. Return to the site and log in.
+
+
 
 ## If the email does not arrive
 
