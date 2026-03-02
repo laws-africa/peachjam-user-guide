@@ -15,6 +15,7 @@
   }, {
     "APPNAME": "LawLibrary",
     "APPURL": "https://lawlibrary.org.za",
+    "AUTH_OTP": true,
     "languages": ["eng"]
   }, {
     "APPNAME": "SeyLII",
