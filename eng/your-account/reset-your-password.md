@@ -6,7 +6,7 @@ description: Reset your %%APPNAME%% password if you cannot log in.
 
 If you cannot log in, resetting your password helps you regain access without creating a new account.
 
-(% if AUTH\_OTP %)
+(% if AUTHOTP %)
 
 ## Reset your password
 
