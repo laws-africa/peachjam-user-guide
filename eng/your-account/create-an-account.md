@@ -6,7 +6,7 @@ description: Create an account on %%APPNAME%% to save documents, set alerts, and
 
 Creating an account helps you keep track of your research and return to important documents quickly.
 
-(% if AUTH_OTP %)
+(% if AUTHOTP %)
 
 ## Create your account
 
