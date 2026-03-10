@@ -4,6 +4,10 @@ description: The Ask AI tool helps you quickly understand any part of a legal do
 
 # Ask questions about a document with AI
 
+(% if APPNAME == "LawLibrary" %)
+{% embed url="https://youtu.be/E25lsgmmOIs" %}
+(% endif %)
+
 1. Open the document you want to explore.
 2. Click the **Ask AI** button in the bottom right corner of your page.
 
