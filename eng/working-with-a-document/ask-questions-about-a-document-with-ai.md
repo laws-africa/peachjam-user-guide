@@ -6,6 +6,8 @@ description: The Ask AI tool helps you quickly understand any part of a legal do
 
 (% if APPNAME == "LawLibrary" %)
 {% embed url="https://youtu.be/E25lsgmmOIs" %}
+(% elif APPNAME == "TanzLII" %)
+{% embed url="https://www.loom.com/share/607bde0ca6764a40b8c46ede5f9fa057" %}
 (% endif %)
 
 1. Open the document you want to explore.
