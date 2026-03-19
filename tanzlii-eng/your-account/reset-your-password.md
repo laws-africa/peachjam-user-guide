@@ -10,13 +10,14 @@ If you cannot log in, resetting your password helps you regain access without cr
 
 ## Reset your password
 
+Because TanzLII uses an email-based code to log you in, a password is not strictly required. However, if you prefer to set a password:
+
 1. Click **Log in**.
-2. Click **Forgot your password**.
-3. Enter the email address for your account.
-4. Click **Reset password**
-5. Open the password reset email and click the reset link.
-6. Create and confirm your new password.
-7. Return to the site and log in.
+2. Enter your email address and click **Continue**.
+3. Click **Use a password instead.**
+4. Click **Forgot your password**.
+5. Check your email for a password reset link.
+6. Click the link and follow the prompts to reset your password.
 
 
 
