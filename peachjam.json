@@ -7,6 +7,7 @@
   }, {
     "APPNAME": "GhaLII",
     "APPURL": "https://ghalii.org",
+    "AUTHOTP": true,
     "languages": ["eng"]
   }, {
     "APPNAME": "Kenya Law",
@@ -29,6 +30,7 @@
   }, {
     "APPNAME": "ULII",
     "APPURL": "https://ulii.org",
+    "AUTHOTP": true,
     "languages": ["eng"]
   }]
 }
