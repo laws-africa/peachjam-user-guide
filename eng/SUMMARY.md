@@ -36,6 +36,7 @@
 * [Create an account](your-account/create-an-account.md)
 * [Reset your password](your-account/reset-your-password.md)
 * [Manage your account](your-account/manage-your-account.md)
+* [Delete your account](your-account/delete-your-account.md)
 
 ## Personalised research
 
