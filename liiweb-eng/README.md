@@ -32,4 +32,5 @@ Legal Information Website helps you quickly find legal information and navigate 
 
 * [Create an account](your-account/create-an-account.md)
 * [Reset your password](your-account/reset-your-password.md)
+* [Delete your account](your-account/delete-your-account.md)
 * [Get help and support](additional-resources/get-help-and-support.md)

@@ -16,4 +16,5 @@ Your account area helps you keep your profile details up to date and manage your
 
 - Account details such as your name, email address, and password.
 - Subscription and billing information (where available).
+- Account closure if you decide to [delete your account](delete-your-account.md).
   
