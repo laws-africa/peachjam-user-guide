@@ -25,6 +25,13 @@ We use the Python Jinja2 package to pre-process the Markdown files, replacing va
 flow such as `if` statements. The built outputs are committed to the repo and Gitbook builds them into the final
 user-facing content.
 
+## Adding a new site variant
+
+1. Add the site to `peachjam.json`
+2. Create a directory with an empty `.keep` file in `_site-images`: `mkdir -p _site-images/foolii/; touch _site-images/foolii/.keep`
+3. Commit to main and push, so that the documentation directory is created with content
+4. In GitBook, add a new space for the LII, connect to GitHub, and use the "GitHub to GitBook" sync to pull in the initial content
+
 ### Variables
 
 Use the syntax `%%VARIABLE%%` for a variable. Variables are defined in the `peachjam.json` file. Variables can be used
