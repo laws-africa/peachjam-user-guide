@@ -1,12 +1,16 @@
 ---
-description: Create an account on Legal Information Website to save documents, set alerts, and follow topics.
+description: >-
+  Create an account on Legal Information Website to save documents, set alerts,
+  and follow topics.
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/your-account/create-an-account
 ---
 
 # Create an account
 
 Creating an account helps you keep track of your research and return to important documents quickly.
-
-
 
 ## Create your account
 
@@ -14,8 +18,6 @@ Creating an account helps you keep track of your research and return to importan
 2. Click **Don't have an account? Sign up**.
 3. Enter your details and choose a secure password.
 4. Click **Sign up** to create your account.
-
-
 
 ## If you cannot create an account
 

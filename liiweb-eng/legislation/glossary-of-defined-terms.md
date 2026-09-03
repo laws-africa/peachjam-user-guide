@@ -1,5 +1,9 @@
 ---
 description: Explore terms that have specific definitions in legislation.
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/legislation/glossary-of-defined-terms
 ---
 
 # Glossary of defined terms

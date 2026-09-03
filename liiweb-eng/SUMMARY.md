@@ -49,6 +49,7 @@
 ## Subscription management
 
 * [Upgrade your subscription](subscription-management/upgrade-your-subscription.md)
+* [Cancel your subscription](subscription-management/cancel-your-subscription.md)
 
 ## Additional resources
 

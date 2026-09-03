@@ -1,5 +1,9 @@
 ---
 description: A brief guide on finding the African Union organs and the documents.
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/additional-resources/african-union-documents-au
 ---
 
 # African Union documents (AU)

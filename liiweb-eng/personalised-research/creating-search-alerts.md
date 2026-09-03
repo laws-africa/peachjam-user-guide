@@ -2,14 +2,13 @@
 description: >-
   The "Search Alerts feature" will make it possible to stay updated on new
   documents that match your search criteria by receiving email notifications.
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/personalised-research/creating-search-alerts
 ---
 
 # Search alerts
-
-
-
-
-
 
 To begin saving search alerts you need to be logged in;
 
@@ -26,7 +25,7 @@ To begin saving search alerts you need to be logged in;
 
 6. Optionally, add a note to remind yourself about the purpose of the alert.
 7. Click the **"Delete alert"** button to undo this action, or the **"Close"** button to dismiss the pop-up and exit the screen.
-8. Click the **All search alerts** link to view all your search alerts&#x20;
+8. Click the **All search alerts** link to view all your search alerts
 9. To change your search query, click on the **'Update this search alert'** button located at the top of the search results page to modify the search alert
 10. To view and manage your search alerts, go to your account section and click the **search alerts** tab
 11. Click on the search term to revisit the results or the **Delete** button to delete an alert.

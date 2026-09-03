@@ -3,6 +3,10 @@ description: >-
   The similar documents feature makes it easier for you to find related legal
   content, helping you quickly access more context or supporting materials
   relevant to your work.
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/finding-information/similar-documents
 ---
 
 # Similar documents

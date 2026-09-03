@@ -1,5 +1,9 @@
 ---
 description: Efficiently navigate a document using the table of contents
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/working-with-a-document/document-table-of-contents-toc
 ---
 
 # Document table of contents

@@ -1,10 +1,12 @@
 ---
 description: This guide will quickly identify cases using special case indexes.
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/judgments/exploring-special-case-indexes
 ---
 
 # Explore special case indexes
-
-
 
 1. Scroll down to the bottom of the page to explore a list of **case indexes** tags.
 

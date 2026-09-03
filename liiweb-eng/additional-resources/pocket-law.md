@@ -2,6 +2,10 @@
 description: >-
   Pocket Law is an offline copy of the caselaw, legislation and other legal
   materials
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/additional-resources/pocket-law
 ---
 
 # Pocket Law
@@ -9,7 +13,7 @@ description: >-
 To access Pocket Law:
 
 1. Go to the homepage
-2. Scroll to the bottom of the homepage&#x20;
+2. Scroll to the bottom of the homepage
 3. Click the **Pocket Law** button
 
 <div align="left"><figure><img src="../.gitbook/assets/liiweb--tz 17.png" alt=""><figcaption></figcaption></figure></div>

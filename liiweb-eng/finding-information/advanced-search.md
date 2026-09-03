@@ -1,13 +1,12 @@
 ---
 description: Explore Advanced search on your LII site
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/finding-information/advanced-search
 ---
 
 # Advanced search
-
-
-
-
-
 
 Advanced search techniques allow you to narrow down your results and find exactly what you seek.
 
@@ -25,7 +24,7 @@ Advanced search techniques allow you to narrow down your results and find exactl
 <figure><img src="../.gitbook/assets/liiweb--Law Lib 9.png" alt=""><figcaption></figcaption></figure>
 
 5. Check the box labeled "**Exact phrase**" next to each keyword or phrase to limit the search to exact matches within the selected fields.
-6. Refine your search using  **("AND," "OR," "NOT")**
+6. Refine your search using **("AND," "OR," "NOT")**
 
 * **AND**: To include all specified keywords.
 * **OR**: To include any of the specified keywords.

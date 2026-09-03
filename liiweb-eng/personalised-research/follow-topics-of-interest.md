@@ -3,12 +3,13 @@ description: >-
   The Follow feature lets you stay updated via email on specific courts, regions
   and legal topics. It's useful in ensuring you never miss important updates
   relevant to your work or research.
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/personalised-research/follow-topics-of-interest
 ---
 
 # Follow topics of interest
-
-
-
 
 We'll email you when new documents are added to a topic you’re following.
 

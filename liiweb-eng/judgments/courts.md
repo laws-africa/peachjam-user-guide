@@ -1,5 +1,8 @@
 ---
 description: How to find judgments on the platform by browsing through courts.
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/judgments/courts
 ---
 
 # Courts
@@ -15,7 +18,6 @@ Courts deliver judgments, which are the main way that judgments are grouped on t
 3.  Click on a **year** to limit judgments to a particular year.
 
     <figure><img src="../.gitbook/assets/liiweb--year court.png" alt=""><figcaption></figcaption></figure>
-4.  Click on **Judges** in the Filters box on the left to refine the results further to a particular judge.\
-
+4.  Click on **Judges** in the Filters box on the left to refine the results further to a particular judge.\\
 
     <div align="left"><figure><img src="../.gitbook/assets/liiweb--judges.png" alt=""><figcaption></figcaption></figure></div>

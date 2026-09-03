@@ -2,6 +2,10 @@
 description: >-
   This guide is to help users find related content either in the AU materials on
   AfricanLII.
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/finding-information/federated-search-on-africanlii
 ---
 
 # Federated search (AfricanLII)
