@@ -2,13 +2,11 @@
 description: >-
   The "Save a Document" feature allows you to easily organize important legal
   documents for future reference in folders.
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/personalised-research/saving-a-document
 ---
 
 # Saving a document
+
+
 
 ## Save a document
 

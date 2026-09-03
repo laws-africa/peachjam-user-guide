@@ -1,12 +1,10 @@
 ---
 description: The Ask AI tool helps you quickly understand any part of a legal document
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/working-with-a-document/ask-questions-about-a-document-with-ai
 ---
 
 # Ask questions about a document with AI
+
+
 
 1. Open the document you want to explore.
 2. Click the **Ask AI** button in the bottom right corner of your page.

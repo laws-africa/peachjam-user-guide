@@ -1,12 +1,10 @@
 ---
 description: Follow the steps below to make private comments on a document.
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/personalised-research/commenting-in-a-document
 ---
 
 # Commenting in a document
+
+
 
 1. Open the document you want to work on.
 2. Ensure you are logged into your account to enable the commenting feature.

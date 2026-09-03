@@ -1,14 +1,12 @@
 ---
 description: Reset your Legal Information Website password if you cannot log in.
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/your-account/reset-your-password
 ---
 
 # Reset your password
 
 If you cannot log in, resetting your password helps you regain access without creating a new account.
+
+
 
 ## Reset your password
 
@@ -19,6 +17,8 @@ If you cannot log in, resetting your password helps you regain access without cr
 5. Open the password reset email and click the reset link.
 6. Create and confirm your new password.
 7. Return to the site and log in.
+
+
 
 ## If the email does not arrive
 

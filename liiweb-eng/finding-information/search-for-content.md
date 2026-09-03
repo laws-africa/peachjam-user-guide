@@ -1,12 +1,12 @@
 ---
 description: How to search on Legal Information Website
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/finding-information/search-for-content
 ---
 
 # Search content
+
+
+
+
 
 <figure><img src="../.gitbook/assets/liiweb--Law lib 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -19,7 +19,7 @@ metaLinks:
 
 ## Focus results with filters
 
-Here’s an example. A search for **"climate change"** returns over 600 documents.
+ Here’s an example. A search for **"climate change"** returns over 600 documents. 
 
 <figure><img src="../.gitbook/assets/liiweb--Law lib 1 (1).png" alt=""><figcaption></figcaption></figure>
 

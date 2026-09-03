@@ -2,13 +2,11 @@
 description: >-
   The In-document search feature will help in doing a search inside various
   document types including judgments, legislation, and PDFs.
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/working-with-a-document/search-inside-a-document
 ---
 
 # Search inside a document
+
+
 
 <div align="left"><figure><img src="../.gitbook/assets/liiweb--Law lib 4.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -29,4 +27,6 @@ metaLinks:
 
 These processes will assist you in navigating our documents and efficiently finding specific information using our in-document search feature.
 
-\\
+
+
+\

@@ -1,9 +1,5 @@
 ---
 description: Get help when you are stuck while using Legal Information Website.
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/additional-resources/get-help-and-support
 ---
 
 # Get help and support
@@ -19,7 +15,7 @@ If you are blocked or unsure what to do next, you can contact the Legal Informat
 
 Share these details so support can help you faster:
 
-* The page URL where the issue happened.
-* What you were trying to do.
-* Any error message shown on screen.
-* The device and browser you are using.
+- The page URL where the issue happened.
+- What you were trying to do.
+- Any error message shown on screen.
+- The device and browser you are using.

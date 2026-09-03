@@ -2,19 +2,17 @@
 description: >-
   Legislation changes over time. This platform makes it easy to understand the
   history of legislation and what amendments have been applied.
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/legislation/tracking-history-of-legislation
 ---
 
 # Track legislation history
 
-## How to track amendments to legislation
+
+
+## How to track amendments to legislation&#x20;
 
 1. Look for a list of amending legislation at the beginning of the document below the title.
 
-<figure><img src="../.gitbook/assets/liiweb--legislation 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/liiweb--legislation 7 (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Click the **History tab** on a document to view the lifecycle of a piece of legislation.
 

@@ -2,15 +2,14 @@
 description: >-
   "What changed"? is how we assist users to navigate and compare various
   versions of legislation on the platform.
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/legislation/how-to-explore-changed-legislation
 ---
 
 # Changes to legislation
 
-Did you know that you can compare previous versions of a piece of legislation, which aids comparative legal research?
+
+
+
+Did you know that you can compare previous versions of a piece of legislation, which aids comparative legal research?&#x20;
 
 ## Explore what's changed:
 
@@ -24,7 +23,7 @@ Did you know that you can compare previous versions of a piece of legislation, w
 Comparing the current and previous versions of a provision;
 
 1. Click the **What changed?** button
-2. A pop-up box will appear allowing you to choose which versions you would like to compare
+2. A pop-up box will appear allowing you to choose which versions you would like to compare&#x20;
 3. The text highlighted in green is what has been added and the text in red has been removed.
 4. Check the box to view the changes **side-by-side**
 

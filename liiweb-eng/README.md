@@ -1,8 +1,5 @@
 ---
 description: Find, research and share legal information on Legal Information Website.
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/
 ---
 
 # Getting started

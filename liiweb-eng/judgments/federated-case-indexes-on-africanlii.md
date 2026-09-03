@@ -2,10 +2,6 @@
 description: >-
   This guide will show you how to search for cases on various topics across
   multiple jurisdictions.
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/judgments/federated-case-indexes-on-africanlii
 ---
 
 # Federated case indexes on AfricanLII

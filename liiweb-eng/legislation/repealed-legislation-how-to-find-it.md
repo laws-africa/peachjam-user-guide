@@ -1,11 +1,6 @@
----
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/legislation/repealed-legislation-how-to-find-it
----
-
 # Repealed legislation
+
+
 
 As you conduct your research, you will be alerted at various points that the particular piece of legislation you are viewing, has been repealed.
 
@@ -19,7 +14,7 @@ When a user searches for a resource using the **search bar,** the results will c
 
 A user viewing a repealed notice, will be alerted at the top of the document. This alert is accompanied with further details such as the repeal date and a link to the repealing notice.
 
-<figure><img src="../.gitbook/assets/liiweb--IMG_0235 2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/liiweb--IMG_0235 2 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Related Documents and History
 

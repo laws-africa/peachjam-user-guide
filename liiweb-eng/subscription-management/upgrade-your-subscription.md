@@ -1,9 +1,5 @@
 ---
 description: Follow the steps to upgrade your subscription on LawLibrary.
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/QTRbq0W6hTpdOKxdYwIV/subscription-management/upgrade-your-subscription
 ---
 
 # Upgrade your subscription
@@ -41,3 +37,5 @@ metaLinks:
 13. Your invoice will be sent to your email address
 14. Click **Cancel transaction** at the bottom of the payment page to stop the process
 15. Go to **My Account** to manage your subscription, billing details, and discounts, or to update your personal information.
+
+
