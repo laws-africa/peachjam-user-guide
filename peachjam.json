@@ -21,6 +21,8 @@
     "APPNAME": "LawLibrary",
     "APPURL": "https://lawlibrary.org.za",
     "AUTHOTP": true,
+    "PAID_SUBSCRIPTIONS": true,
+    "ORGANISATION_SUBSCRIPTIONS": true,
     "languages": ["eng"]
   }, {
     "APPNAME": "TanzLII",

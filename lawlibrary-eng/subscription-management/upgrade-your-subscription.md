@@ -1,41 +1,65 @@
+
 ---
-description: Follow the steps to upgrade your subscription on LawLibrary.
+description: Subscribe to and manage an individual My LawLibrary plan.
 ---
 
-# Upgrade your subscription
+# Manage an individual subscription
 
-1. Create a LawLibrary account or log in to unlock premium subscriptions
+An individual subscription gives you paid My LawLibrary access that you manage and pay for yourself. You can choose a plan, apply an eligible discount and manage your billing from **My Account**.
 
-<figure><img src="../.gitbook/assets/lawlibrary--LL SUB 2.png" alt=""><figcaption></figcaption></figure>
+If your firm or chambers will pay for your access, see [Organisations and chambers](organisations-and-chambers.md) before you start a separate subscription.
 
-2. Click **Subscribe** in the top-right menu
+## Subscribe to a plan
 
-<figure><img src="../.gitbook/assets/lawlibrary--LL SUB 8.png" alt=""><figcaption></figcaption></figure>
+1. Create a LawLibrary account or log in.
+2. Click **Subscribe** in the top-right menu.
+3. Click **See plans & pricing**.
+4. Compare the My LawLibrary plans.
+5. Click **Subscribe now** under the plan you want.
 
-3. On the Subscribe page, click the **See plans & pricing** button to view all plans
+<figure><img src="../.gitbook/assets/lawlibrary--LL SUB 5.png" alt="My LawLibrary plans with a Subscribe now button under each paid plan"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/lawlibrary--LL SUB 4.png" alt=""><figcaption></figcaption></figure>
+## Apply a discount and pay
 
-4. Review the features of **My LawLibrary Essentials** and **My LawLibrary Pro** to select a plan
-5. Click the **Subscribe now** button for your preferred plan
+1. Enter your code under **Apply a discount code**, if you have an eligible code.
+2. Click **Apply**.
+3. Enter your billing details.
+4. Click **Pay now and subscribe**.
+5. Enter your card details on the secure payment page.
+6. Click **Pay**.
 
-<figure><img src="../.gitbook/assets/lawlibrary--LL SUB 5.png" alt=""><figcaption></figcaption></figure>
+Your subscription starts after LawLibrary confirms the payment. Your invoice is sent to your billing email address.
 
-### How to make a payment
+If you do not want to complete the payment, click **Cancel transaction** on the payment page.
 
-<figure><img src="../.gitbook/assets/lawlibrary--LL SUB 6.png" alt=""><figcaption></figcaption></figure>
+## Manage your subscription
 
-6. Enter your LSSA discount code in the **Apply a discount code** field and click **Apply (optional)**
-7. Fill in your billing details
-8. Click **Pay now and subscribe** to go to the secure payment page
-9. Enter your **card number**, **expiry date**, **CVV**, and **name on the card**
-10. Click **Pay** to complete your purchase. Your subscription is activated after successful payment
+1. Log in to LawLibrary.
+2. Click your name in the top-right menu.
+3. Click **My Account**.
 
-<figure><img src="../.gitbook/assets/lawlibrary--LL SUB 7.png" alt=""><figcaption></figcaption></figure>
+You can view your current plan and use the available controls to:
 
-12. Click the **Change** link to update the email address where your account information is sent
-13. Your invoice will be sent to your email address
-14. Click **Cancel transaction** at the bottom of the payment page to stop the process
-15. Go to **My Account** to manage your subscription, billing details, and discounts, or to update your personal information.
+- change or cancel your individual subscription;
+- update your billing details or payment card;
+- view your billing history; and
+- apply or review an eligible discount.
 
+## When an organisation starts paying for your access
 
+You do not need a second LawLibrary account. Accept the organisation invitation using the email address linked to your existing account.
+
+When the organisation-funded plan becomes active:
+
+- your account and saved research stay in place;
+- LawLibrary stops your individual billing before the organisation-funded period overlaps with it;
+- any eligible unused value from a settled prepaid subscription becomes a credit for the organisation; and
+- an eligible discount remains linked to you and is taken into account on your organisation-funded seat.
+
+While the organisation funds your plan, **My Account** shows **Provided by [organisation]**. Personal payment and cancellation controls are hidden because the organisation manages that plan.
+
+If the organisation later stops funding your access, your account moves to the free plan. You can then start a new individual subscription without overlapping billing.
+
+## If your subscription does not start
+
+First check whether the payment completed successfully. A cancelled or unsuccessful transaction does not activate the subscription. If payment succeeded but your plan has not changed, [contact LawLibrary support](../additional-resources/get-help-and-support.md).

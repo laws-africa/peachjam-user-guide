@@ -16,13 +16,13 @@ jobs:
     # avoid circular build commits
     if: ${{ !contains(github.event.head_commit.message, 'nobuild') }}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
         with:
           # use a token that has admin perms to bypass direct commits to master
           token: ${{ secrets.LA_ACTIONS_TOKEN }}
 
       - name: Set up Python Environment
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.10"
           cache: 'pip'

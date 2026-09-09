@@ -125,8 +125,13 @@ From `peachjam.json` and build logic:
 - `languages`
 - `APPCODE` (auto-derived if not set)
 - `LANG`
+- `AUTHOTP` (site supports email-code login)
+- `PAID_SUBSCRIPTIONS` (site offers individual paid subscriptions)
+- `ORGANISATION_SUBSCRIPTIONS` (site offers organisation-managed subscriptions)
 
-If you add new template variables, ensure they are present in every relevant site config.
+If you add new template variables, ensure they are present in every relevant site config. Use capability flags to
+limit site-specific documentation. Wrap both the page and its `SUMMARY.md` entry in the same condition. A page that
+renders as empty is omitted from that site variant.
 
 ## Assets and Image Localisation
 
