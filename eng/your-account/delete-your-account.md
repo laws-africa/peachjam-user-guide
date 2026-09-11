@@ -26,7 +26,7 @@ If you only want to stop paying for your individual subscription, you may prefer
 ## Delete your account
 
 1. Sign in to %%APPNAME%%.
-2. Click on your name in the top-right menu and click **My Account**.
+3. Click on your name in the top-right menu and click **[My Account](%%APPURL%%/accounts/profile/)**.
 3. Click **Delete account**.
 4. Confirm that you want to delete your account.
 5. Enter a reason for deleting your account.

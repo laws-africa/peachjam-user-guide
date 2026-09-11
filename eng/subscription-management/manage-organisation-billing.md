@@ -5,20 +5,20 @@ description: Review and manage billing for a My LawLibrary organisation.
 
 # Manage organisation billing
 
-The **Billing** page shows what your organisation is paying for, when the next payment is expected and whether any amount needs attention. Owners and administrators can also update billing details and review invoices and payment history.
+The **[Organisation Billing](%%APPURL%%/accounts/organisation/billing/)** page shows what your organisation is paying for, when the next payment is expected and whether any amount needs attention. Owners and administrators can also update billing details and review invoices and payment history.
 
 ## Use the Overview billing summary
 
-The **Overview** page gives you a quick billing status. Use it to check the next important date and amount, outstanding bills, pending adjustments and any carried credit.
+The **[Organisation Overview](%%APPURL%%/accounts/organisation/billing/)** page gives you a quick billing status. Use it to check the next important date and amount, outstanding bills, pending adjustments and any carried credit.
 
-Click through to **Billing** when you need seat-level charges, billing details, invoices or full payment history. The two pages are not duplicates: **Overview** highlights what needs attention, while **Billing** provides the complete record.
+Click through to **[Billing](%%APPURL%%/accounts/organisation/billing/)** when you need seat-level charges, billing details, invoices or full payment history. The two pages are not duplicates: **Overview** highlights what needs attention, while **Billing** provides the complete record.
 
 ## Open the Billing page
 
 1. Log in to LawLibrary.
 2. Click your name in the top-right menu.
-3. Click **Manage [organisation name]**.
-4. Click **Billing**.
+3. Click **[Manage [organisation]](%%APPURL%%/accounts/organisation/)**.
+4. Click **[Billing](%%APPURL%%/accounts/organisation/billing/)**.
 
 Only the owner and administrators can open this page.
 
@@ -43,7 +43,7 @@ All seats use the organisation's monthly or annual billing cycle. A member canno
 
 The timing of a seat change depends on the payment method:
 
-- **Card:** a new seat, upgrade or discount adjustment normally appears in the next card payment. After that payment, the following recurring amount returns to the ordinary total for the current seats.
+- **Card:** a new seat, upgrade or discount adjustment normally appears in the next card payment. After that payment, the following recurring amount will reflect the ordinary total for the current seats.
 - **Invoice:** LawLibrary issues an adjustment invoice for a mid-cycle addition or upgrade. The new access can start immediately when the active organisation is in good standing.
 
 Downgrades and seat reductions normally take effect at renewal. An issued invoice is not changed after it has been finalised. A later change appears in the next adjustment or renewal.
@@ -56,7 +56,7 @@ An unused seat renews at the standard price unless an administrator schedules it
 
 ## Update billing details
 
-1. Open the **Billing** page.
+1. Open the **[Billing](%%APPURL%%/accounts/organisation/billing/)** page.
 2. Find **Billing details**.
 3. Update the legal or billing name, contact details, address, VAT number or purchase-order reference as needed.
 4. Click **Save billing details**.
@@ -81,7 +81,7 @@ If credit covers an entire renewal, LawLibrary settles the zero-value renewal in
 
 ## View invoices and payment history
 
-Use **History** to review charges, payments and invoices. Click **Download** beside an invoice when a download is available.
+Use **[Billing History](%%APPURL%%/accounts/organisation/billing/)** to review charges, payments and invoices. Click **Download** beside an invoice when a download is available.
 
 An organisation invoice may identify the member or unused seat connected to each plan charge. It never includes usage or private research information.
 
@@ -95,7 +95,7 @@ If an amount remains unpaid until the stated lapse date, all organisation-funded
 
 Organisation closure is assisted by LawLibrary so that outstanding invoices, notice periods and the end of paid access can be checked.
 
-1. Open the organisation **Overview** page.
+1. Open the **[Organisation Overview](%%APPURL%%/accounts/organisation/)** page.
 2. Click **Request organisation closure**.
 3. Submit the request.
 

@@ -10,13 +10,17 @@ My LawLibrary for Organisations and Chambers lets a firm or chambers pay for sev
 ## Understand the main terms
 
 - A **seat** is one paid place that an organisation can assign to a member.
-- An **unused seat** is a seat that the organisation is paying for but has not assigned to a member. It can be reassigned to a member on the same plan.
+- An **unused seat** is a seat that the organisation is paying for but has not assigned to a member.
 - A **plan** determines the My LawLibrary features and limits available to the member using the seat.
 - A **subscription** is the access provided to a person, whether they pay for it themselves or receive it through an organisation.
 
 Using **seat** for the organisation's paid capacity avoids confusing it with a member's subscription.
 
-## Know the roles
+## Organisation roles
+
+Roles determine what people in an organisation can do.
+
+A person's role and paid access are separate. For example, an administrator can manage the organisation without using a paid seat.
 
 | Role | What the person can do |
 | --- | --- |
@@ -24,13 +28,12 @@ Using **seat** for the organisation's paid capacity avoids confusing it with a m
 | Administrator | Invites and removes members, assigns seats, changes plans and manages billing. An administrator cannot remove or demote the owner. |
 | Member | Uses their own LawLibrary account and can view their membership details. A member cannot manage the organisation or its billing. |
 
-A person's role and paid access are separate. For example, an administrator can manage the organisation without using a paid seat.
 
-## Understand the billing cycle
+## Understand the organisation billing cycle
 
 An organisation uses one billing cycle for all its seats: monthly or annual. Individual members cannot choose a different cycle for an organisation-funded seat.
 
-The organisation's opening payment sets a common billing cycle date. New seats and upgrades can start during the cycle, but all seats renew together. Contact LawLibrary to arrange a change between monthly and annual billing.
+The organisation's billing cycle starts when the first payment is received. New seats and upgrades can start during the cycle, but all seats renew together. Contact LawLibrary to arrange a change between monthly and annual billing.
 
 ## Understand research privacy
 
@@ -39,21 +42,21 @@ Every member has a private account and research space. An organisation uses one 
 - **Billing only**: administrators can manage membership and billing but cannot see member usage.
 - **Managed usage**: administrators can see whether an account has been activated, the last login date, and current counts for saved documents, folders, search alerts and followed topics.
 
-Administrators can never see document titles, searches, annotations, chats, downloads or research history. **My Account** tells each member which privacy setting applies and what administrators can see.
+Administrators can never see document titles, searches, annotations, chats, downloads or research history. A member's **[My Account](%%APPURL%%/accounts/profile/)** page tells each member which privacy setting applies and what administrators can see.
 
-LawLibrary staff manage changes to the privacy setting. Members are notified before a material change takes effect.
+Contact LawLibrary to change your organisation's privacy setting.
 
-## Open your organisation
+## Managing an organisation
 
-If you are the owner or an administrator:
+If you are the organisation owner or an administrator:
 
-1. Log in to LawLibrary.
+1. Log in to My LawLibrary.
 2. Click your name in the top-right menu.
-3. Click **Manage [organisation name]**.
+3. Click **[Manage [organisation]](%%APPURL%%/accounts/organisation/)**.
 
-Use **Overview** for a summary, **Members** for people and seats, and **Billing** for payment and invoice details.
+Use **[Overview](%%APPURL%%/accounts/organisation/)** for a summary, **[Members](%%APPURL%%/accounts/organisation/members/)** for people and seats, and **[Billing](%%APPURL%%/accounts/organisation/billing/)** for payment and invoice details.
 
-All members can see their role, membership and privacy information in the **Organisation** section of **My Account**.
+All organisation members can see their role, membership and privacy information in the **Organisation** section of their **[My Account](%%APPURL%%/accounts/profile/)** page.
 
 ## Choose what you need to do
 

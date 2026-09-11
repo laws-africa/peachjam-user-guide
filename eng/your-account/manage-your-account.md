@@ -9,7 +9,7 @@ Your account area helps you keep your profile details up to date and manage your
 ## Open your account area
 
 1. Log in to %%APPNAME%%.
-2. Click on your name in the top-right menu and click **My Account**.
+2. Click on your name in the top-right menu and click **[My Account](%%APPURL%%/accounts/profile/)**.
 
 ## What you can manage
 
