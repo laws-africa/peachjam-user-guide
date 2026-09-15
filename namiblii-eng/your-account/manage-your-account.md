@@ -9,12 +9,17 @@ Your account area helps you keep your profile details up to date and manage your
 ## Open your account area
 
 1. Log in to NamibLII.
-2. Click on your name in the top-right menu and click **My Account**.
+2. Click on your name in the top-right menu and click **[My Account][my-account]**.
 
 ## What you can manage
 
 
 - Account details such as your name, email address, and password.
-- Subscription and billing information (where available).
+
+
+
 - Account closure if you decide to [delete your account](delete-your-account.md).
-  
+
+
+
+[my-account]: https://namiblii.org/accounts/profile/

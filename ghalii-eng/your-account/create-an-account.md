@@ -10,7 +10,7 @@ Creating an account helps you keep track of your research and return to importan
 
 ## Create your account
 
-1. Click **Log in** at the top of the site.
+1. Click **[Log In][log-in]** at the top of the site.
 2. Enter your email address and click **Continue**.
 3. You will receive an email with a one-time verification code. Enter this code on the verification page.
 4. You are now logged in. If you are a new user, you will be asked to complete your profile details (your first and last name) before you can continue.
@@ -28,3 +28,5 @@ Because GhaLII uses an email-based code to log you in, a password is not strictl
 ## If you cannot create an account
 
 If you do not see an option to log in or create an account, account access may be managed differently for your site. Contact your site administrator or support team for access.
+
+[log-in]: https://ghalii.org/accounts/login/

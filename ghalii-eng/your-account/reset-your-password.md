@@ -12,7 +12,7 @@ If you cannot log in, resetting your password helps you regain access without cr
 
 Because GhaLII uses an email-based code to log you in, a password is not strictly required. However, if you prefer to set a password:
 
-1. Click **Log in**.
+1. Click **[Log In][log-in]**.
 2. Enter your email address and click **Continue**.
 3. Click **Use a password instead.**
 4. Click **Forgot your password**.
@@ -24,3 +24,5 @@ Because GhaLII uses an email-based code to log you in, a password is not strictl
 ## If the email does not arrive
 
 Check your spam or junk folder, then try again. If you still do not receive the email, contact your site administrator or support team.
+
+[log-in]: https://ghalii.org/accounts/login/

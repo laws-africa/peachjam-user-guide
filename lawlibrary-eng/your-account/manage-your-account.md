@@ -9,7 +9,7 @@ Your account area helps you keep your profile details up to date and manage your
 ## Open your account area
 
 1. Log in to LawLibrary.
-2. Click on your name in the top-right menu and click **My Account**.
+2. Click on your name in the top-right menu and click **[My Account][my-account]**.
 
 ## What you can manage
 
@@ -41,3 +41,6 @@ After you join, this section shows:
 If you are the owner or an administrator, click **Manage [organisation name]** to manage members, seats and billing.
 
 Learn more about [My LawLibrary for Organisations and Chambers](../subscription-management/organisations-and-chambers.md).
+
+
+[my-account]: https://lawlibrary.org.za/accounts/profile/

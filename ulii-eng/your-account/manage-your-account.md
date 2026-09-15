@@ -9,7 +9,7 @@ Your account area helps you keep your profile details up to date and manage your
 ## Open your account area
 
 1. Log in to ULII.
-2. Click on your name in the top-right menu and click **My Account**.
+2. Click on your name in the top-right menu and click **[My Account][my-account]**.
 
 ## What you can manage
 
@@ -17,6 +17,11 @@ Your account area helps you keep your profile details up to date and manage your
 
 - Account details such as your name and email address.
 - Your password (you can set one if you prefer to log in with a password instead of an email code).
-- Subscription and billing information (where available).
+
+
+
 - Account closure if you decide to [delete your account](delete-your-account.md).
-  
+
+
+
+[my-account]: https://ulii.org/accounts/profile/

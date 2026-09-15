@@ -10,7 +10,7 @@ If you cannot log in, resetting your password helps you regain access without cr
 
 ## Reset your password
 
-1. Click **Log in**.
+1. Click **[Log In][log-in]**.
 2. Click **Forgot your password**.
 3. Enter the email address for your account.
 4. Click **Reset password**
@@ -23,3 +23,5 @@ If you cannot log in, resetting your password helps you regain access without cr
 ## If the email does not arrive
 
 Check your spam or junk folder, then try again. If you still do not receive the email, contact your site administrator or support team.
+
+[log-in]: https://namiblii.org/accounts/login/

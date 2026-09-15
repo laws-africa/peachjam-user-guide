@@ -46,9 +46,7 @@
 * [Follow topics of interest](personalised-research/follow-topics-of-interest.md)
 * [Search alerts](personalised-research/creating-search-alerts.md)
 
-## Subscription management
 
-* [Upgrade your subscription](subscription-management/upgrade-your-subscription.md)
 
 ## Additional resources
 
