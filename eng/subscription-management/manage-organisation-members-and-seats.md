@@ -5,14 +5,14 @@ description: Invite people and manage roles, seats and plans for a My LawLibrary
 
 # Manage members and seats
 
-The **[Organisation Members](%%APPURL%%/accounts/organisation/members/)** page brings your organisation's people and paid seats together. Owners and administrators can invite members, control administrative access, assign the right plan and remove people who no longer need access.
+The **[Organisation Members][organisation-members]** page brings your organisation's people and paid seats together. Owners and administrators can invite members, control administrative access, assign the right plan and remove people who no longer need access.
 
 ## Open the Members page
 
 1. Log in to LawLibrary.
 2. Click your name in the top-right menu.
-3. Click **[Manage [organisation]](%%APPURL%%/accounts/organisation/)**.
-4. Click **[Members](%%APPURL%%/accounts/organisation/billing/)**.
+3. Click **[Manage \[organisation\]][organisation-overview]**.
+4. Click **[Members][organisation-members]**.
 
 The page shows active members, pending invitations, assigned plans and scheduled changes. It also shows permitted usage information when the organisation uses **Managed usage** privacy.
 
@@ -32,7 +32,7 @@ The invitation expires after 14 days. Under **Pending invitations**, use **Resen
 
 ## Change a member's role
 
-1. Find the person on the **[Members](%%APPURL%%/accounts/organisation/billing/)** page.
+1. Find the person on the **[Members][organisation-members]** page.
 2. Click **Manage**.
 3. Choose **Make administrator** or **Make member**.
 4. Review the change.
@@ -42,7 +42,7 @@ Changing a role does not change the person's seat or plan. The affected person a
 
 ## Assign or change a seat
 
-1. Find the person on the **[Members](%%APPURL%%/accounts/organisation/billing/)** page.
+1. Find the person on the **[Members][organisation-members]** page.
 2. Click **Manage**.
 3. Under **Seat and plan**, click **Assign seat** or **Manage seat**.
 4. Choose the plan or seat action.
@@ -84,7 +84,7 @@ Use **End seat at renewal** when the organisation no longer wants to pay for tha
 
 ## Remove a member
 
-1. Find the person on the **[Members](%%APPURL%%/accounts/organisation/billing/)** page.
+1. Find the person on the **[Members][organisation-members]** page.
 2. Click **Manage**.
 3. Choose **Remove member now** or **Remove member at renewal**.
 4. Review when their organisation-funded access will end.
@@ -111,7 +111,7 @@ The new owner receives all owner rights. The previous owner remains in the organ
 
 ## Understand the usage summary
 
-For an organisation with **Managed usage** privacy, the **[Members](%%APPURL%%/accounts/organisation/billing/)** page may show:
+For an organisation with **Managed usage** privacy, the **[Members][organisation-members]** page may show:
 
 - whether the account has been activated;
 - the last login date; and
@@ -125,4 +125,7 @@ It never shows document titles, searches, annotations, chats, downloads or resea
 - If the email address is wrong, cancel the invitation and invite the correct address.
 - If the person already belongs to another organisation, they must leave it before accepting.
 - If the organisation is waiting for its opening payment, the person can accept but paid access waits for settlement.
+
+[organisation-overview]: %%APPURL%%/accounts/organisation/
+[organisation-members]: %%APPURL%%/accounts/organisation/members/
 (% endif %)

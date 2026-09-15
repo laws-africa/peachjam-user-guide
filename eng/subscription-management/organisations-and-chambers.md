@@ -42,7 +42,7 @@ Every member has a private account and research space. An organisation uses one 
 - **Billing only**: administrators can manage membership and billing but cannot see member usage.
 - **Managed usage**: administrators can see whether an account has been activated, the last login date, and current counts for saved documents, folders, search alerts and followed topics.
 
-Administrators can never see document titles, searches, annotations, chats, downloads or research history. A member's **[My Account](%%APPURL%%/accounts/profile/)** page tells each member which privacy setting applies and what administrators can see.
+Administrators can never see document titles, searches, annotations, chats, downloads or research history. A member's **[My Account][my-account]** page tells each member which privacy setting applies and what administrators can see.
 
 Contact LawLibrary to change your organisation's privacy setting.
 
@@ -52,11 +52,11 @@ If you are the organisation owner or an administrator:
 
 1. Log in to My LawLibrary.
 2. Click your name in the top-right menu.
-3. Click **[Manage [organisation]](%%APPURL%%/accounts/organisation/)**.
+3. Click **[Manage \[organisation\]][organisation-overview]**.
 
-Use **[Overview](%%APPURL%%/accounts/organisation/)** for a summary, **[Members](%%APPURL%%/accounts/organisation/members/)** for people and seats, and **[Billing](%%APPURL%%/accounts/organisation/billing/)** for payment and invoice details.
+Use **[Overview][organisation-overview]** for a summary, **[Members][organisation-members]** for people and seats, and **[Billing][organisation-billing]** for payment and invoice details.
 
-All organisation members can see their role, membership and privacy information in the **Organisation** section of their **[My Account](%%APPURL%%/accounts/profile/)** page.
+All organisation members can see their role, membership and privacy information in the **Organisation** section of their **[My Account][my-account]** page.
 
 ## Choose what you need to do
 
@@ -64,4 +64,9 @@ All organisation members can see their role, membership and privacy information 
 - [Manage members and seats](manage-organisation-members-and-seats.md).
 - [Manage organisation billing](manage-organisation-billing.md).
 - [Manage an individual subscription](upgrade-your-subscription.md).
+
+[my-account]: %%APPURL%%/accounts/profile/
+[organisation-overview]: %%APPURL%%/accounts/organisation/
+[organisation-members]: %%APPURL%%/accounts/organisation/members/
+[organisation-billing]: %%APPURL%%/accounts/organisation/billing/
 (% endif %)

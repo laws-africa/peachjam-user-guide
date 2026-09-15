@@ -5,20 +5,20 @@ description: Review and manage billing for a My LawLibrary organisation.
 
 # Manage organisation billing
 
-The **[Organisation Billing](%%APPURL%%/accounts/organisation/billing/)** page shows what your organisation is paying for, when the next payment is expected and whether any amount needs attention. Owners and administrators can also update billing details and review invoices and payment history.
+The **[Organisation Billing][organisation-billing]** page shows what your organisation is paying for, when the next payment is expected and whether any amount needs attention. Owners and administrators can also update billing details and review invoices and payment history.
 
 ## Use the Overview billing summary
 
-The **[Organisation Overview](%%APPURL%%/accounts/organisation/billing/)** page gives you a quick billing status. Use it to check the next important date and amount, outstanding bills, pending adjustments and any carried credit.
+The **[Organisation Overview][organisation-overview]** page gives you a quick billing status. Use it to check the next important date and amount, outstanding bills, pending adjustments and any carried credit.
 
-Click through to **[Billing](%%APPURL%%/accounts/organisation/billing/)** when you need seat-level charges, billing details, invoices or full payment history. The two pages are not duplicates: **Overview** highlights what needs attention, while **Billing** provides the complete record.
+Click through to **[Billing][organisation-billing]** when you need seat-level charges, billing details, invoices or full payment history. The two pages are not duplicates: **Overview** highlights what needs attention, while **Billing** provides the complete record.
 
 ## Open the Billing page
 
 1. Log in to LawLibrary.
 2. Click your name in the top-right menu.
-3. Click **[Manage [organisation]](%%APPURL%%/accounts/organisation/)**.
-4. Click **[Billing](%%APPURL%%/accounts/organisation/billing/)**.
+3. Click **[Manage \[organisation\]][organisation-overview]**.
+4. Click **[Billing][organisation-billing]**.
 
 Only the owner and administrators can open this page.
 
@@ -56,7 +56,7 @@ An unused seat renews at the standard price unless an administrator schedules it
 
 ## Update billing details
 
-1. Open the **[Billing](%%APPURL%%/accounts/organisation/billing/)** page.
+1. Open the **[Billing][organisation-billing]** page.
 2. Find **Billing details**.
 3. Update the legal or billing name, contact details, address, VAT number or purchase-order reference as needed.
 4. Click **Save billing details**.
@@ -81,7 +81,7 @@ If credit covers an entire renewal, LawLibrary settles the zero-value renewal in
 
 ## View invoices and payment history
 
-Use **[Billing History](%%APPURL%%/accounts/organisation/billing/)** to review charges, payments and invoices. Click **Download** beside an invoice when a download is available.
+Use **[Billing History][organisation-billing]** to review charges, payments and invoices. Click **Download** beside an invoice when a download is available.
 
 An organisation invoice may identify the member or unused seat connected to each plan charge. It never includes usage or private research information.
 
@@ -95,9 +95,12 @@ If an amount remains unpaid until the stated lapse date, all organisation-funded
 
 Organisation closure is assisted by LawLibrary so that outstanding invoices, notice periods and the end of paid access can be checked.
 
-1. Open the **[Organisation Overview](%%APPURL%%/accounts/organisation/)** page.
+1. Open the **[Organisation Overview][organisation-overview]** page.
 2. Click **Request organisation closure**.
 3. Submit the request.
 
 LawLibrary will confirm the closure date and any remaining obligations. Closing the organisation does not delete member accounts or their private saved research.
+
+[organisation-overview]: %%APPURL%%/accounts/organisation/
+[organisation-billing]: %%APPURL%%/accounts/organisation/billing/
 (% endif %)

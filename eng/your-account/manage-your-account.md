@@ -9,7 +9,7 @@ Your account area helps you keep your profile details up to date and manage your
 ## Open your account area
 
 1. Log in to %%APPNAME%%.
-2. Click on your name in the top-right menu and click **[My Account](%%APPURL%%/accounts/profile/)**.
+2. Click on your name in the top-right menu and click **[My Account][my-account]**.
 
 ## What you can manage
 
@@ -44,3 +44,5 @@ If you are the owner or an administrator, click **Manage [organisation name]** t
 
 Learn more about [My LawLibrary for Organisations and Chambers](../subscription-management/organisations-and-chambers.md).
 (% endif %)
+
+[my-account]: %%APPURL%%/accounts/profile/
