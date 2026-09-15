@@ -11,11 +11,11 @@ An organisation invitation connects your existing LawLibrary account to your fir
 
 LawLibrary sends an invitation to the email address entered by the organisation administrator.
 
-If you already have an account with that email address, you can also find the invitation in [My Account](%%APPURL%%/accounts/profile/):
+If you already have an account with that email address, you can also find the invitation in [My Account][my-account]:
 
 1. Log in to %%APPNAME%%.
 2. Click your name in the top-right menu.
-3. Click **[My Account](%%APPURL%%/accounts/profile/)**.
+3. Click **[My Account][my-account]**.
 4. Find **Pending invitations** under **Organisation**.
 5. Click **Review invitation**.
 
@@ -41,7 +41,7 @@ Your individual billing will end and your organisation will pay for your subscri
 
 Leaving your organisation ends your membership and any paid subscription provided by the organisation. It does not delete your LawLibrary account or saved research.
 
-1. Open **[My Account](%%APPURL%%/accounts/profile/)**.
+1. Open **[My Account][my-account]**.
 2. Find the **Organisation** section.
 3. Click **Leave organisation**.
 4. Review when organisation-funded access will end.
@@ -58,4 +58,6 @@ The organisation keeps any unused value that it funded. The released seat may be
 - **You already belong to another organisation:** leave that organisation before accepting the new invitation.
 - **You are the organisation owner:** transfer ownership before you leave or delete your account.
 - **An administrator removed you:** your account remains in place, but organisation-funded access ends on the date selected by the administrator.
+
+[my-account]: %%APPURL%%/accounts/profile/
 (% endif %)

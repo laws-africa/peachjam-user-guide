@@ -95,7 +95,7 @@ Do not begin with technical detail alone.
 ## How Variants Are Built
 
 1. GitHub Actions runs on push to `main`.
-2. Workflow installs Python 3.10 and `requirements.txt` dependencies.
+2. Workflow installs Python 3.12 and `requirements.txt` dependencies.
 3. It runs `python bin/build.py`.
 4. The workflow commits generated changes with message `Update site variants [nobuild]`.
 5. Commits containing `nobuild` are skipped to avoid recursive CI runs.
