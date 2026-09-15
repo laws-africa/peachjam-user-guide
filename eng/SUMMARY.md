@@ -46,9 +46,19 @@
 * [Follow topics of interest](personalised-research/follow-topics-of-interest.md)
 * [Search alerts](personalised-research/creating-search-alerts.md)
 
+(% if PAID_SUBSCRIPTIONS or ORGANISATION_SUBSCRIPTIONS %)
 ## Subscription management
 
-* [Upgrade your subscription](subscription-management/upgrade-your-subscription.md)
+(% if PAID_SUBSCRIPTIONS %)
+* [Manage an individual subscription](subscription-management/upgrade-your-subscription.md)
+(% endif %)
+(% if ORGANISATION_SUBSCRIPTIONS %)
+* [Organisations and chambers](subscription-management/organisations-and-chambers.md)
+  * [Join or leave an organisation](subscription-management/join-or-leave-an-organisation.md)
+  * [Manage members and seats](subscription-management/manage-organisation-members-and-seats.md)
+  * [Manage organisation billing](subscription-management/manage-organisation-billing.md)
+(% endif %)
+(% endif %)
 
 ## Additional resources
 

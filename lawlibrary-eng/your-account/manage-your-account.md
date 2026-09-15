@@ -17,6 +17,27 @@ Your account area helps you keep your profile details up to date and manage your
 
 - Account details such as your name and email address.
 - Your password (you can set one if you prefer to log in with a password instead of an email code).
-- Subscription and billing information (where available).
+
+
+- Your individual subscription, billing details and discounts.
+
+
+- Your organisation invitations, role and privacy information.
+
 - Account closure if you decide to [delete your account](delete-your-account.md).
-  
+
+
+## Manage an organisation connection
+
+The **Organisation** section shows any organisation invitation sent to the email address on your account. Click **Review invitation** to see the proposed role, plan and privacy setting before you accept it.
+
+After you join, this section shows:
+
+- your organisation and role;
+- whether the organisation provides your plan;
+- the organisation's privacy setting and what administrators can see; and
+- an option to leave the organisation, if your role allows it.
+
+If you are the owner or an administrator, click **Manage [organisation name]** to manage members, seats and billing.
+
+Learn more about [My LawLibrary for Organisations and Chambers](../subscription-management/organisations-and-chambers.md).

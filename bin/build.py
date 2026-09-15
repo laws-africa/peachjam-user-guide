@@ -92,8 +92,12 @@ def copy_and_process_tree(src, dst, site):
             if file.endswith('.md'):
                 file_path = os.path.join(root, file)
                 processed_content = process_file(env, file_path, site)
-                with open(file_path, 'w') as file:
-                    file.write(processed_content)
+                if processed_content.strip():
+                    with open(file_path, 'w') as file:
+                        file.write(processed_content)
+                else:
+                    # Do not publish pages disabled for this site variant.
+                    os.remove(file_path)
 
 def build_sites(peachjam_path, src_base, dst_base):
     with open(peachjam_path, 'r') as file:

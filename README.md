@@ -51,6 +51,11 @@ syntax used by Gitbook.
 
 Consult the [Jinja template documentation](https://jinja.palletsprojects.com/en/stable/templates/) for more details.
 
+Use capability flags in `peachjam.json` for documentation that applies only to certain sites. For example,
+`PAID_SUBSCRIPTIONS` controls individual subscription documentation and `ORGANISATION_SUBSCRIPTIONS` controls
+organisation documentation. Wrap both the page content and its entry in `SUMMARY.md` in the appropriate condition.
+Pages that render as empty are omitted from that site variant.
+
 ## Localised image variants
 
 The base images are stored in the `.gitbook/assets` directory. Localised variants of each image are stored in the
