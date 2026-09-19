@@ -5,13 +5,13 @@ description: Review and manage billing for a My LawLibrary organisation.
 
 # Manage organisation billing
 
-The **[Organisation Billing][organisation-billing]** page shows what your organisation is paying for, when the next payment is expected and whether any amount needs attention. Owners and administrators can also update billing details and review invoices and payment history.
+The **[Organisation Billing][organisation-billing]** page shows what your organisation is paying for, when the next payment is expected and whether any amount needs attention. Owners and administrators can also update billing details. Charges, payments and invoices appear on the separate **[Invoices][organisation-invoices]** page.
 
 ## Use the Overview billing summary
 
 The **[Organisation Overview][organisation-overview]** page gives you a quick billing status. Use it to check the next important date and amount, outstanding bills, pending adjustments and any carried credit.
 
-Click through to **[Billing][organisation-billing]** when you need seat-level charges, billing details, invoices or full payment history. The two pages are not duplicates: **Overview** highlights what needs attention, while **Billing** provides the complete record.
+Click through to **[Billing][organisation-billing]** when you need billing details, recurring totals, credits or a payment action. Use **[Invoices][organisation-invoices]** for charges, payments and invoice downloads.
 
 ## Open the Billing page
 
@@ -31,8 +31,7 @@ Review these details near the top of the page:
 - **Billing cycle date** is the common date used for future renewals.
 - **Next renewal** shows when the next billing period starts.
 - **Current recurring total** is the normal cost of the current seats.
-- **Next card payment** or **Amount currently due** includes relevant adjustments.
-- **Pending card adjustments** shows mid-cycle changes waiting for the next card payment.
+- **Amount currently due** shows an opening payment or seat adjustment that still needs to be paid.
 - **Credit carried forward** shows credit available for a future charge.
 
 The opening payment must settle before organisation-funded subscriptions become active. Its settlement date becomes the organisation's billing cycle date.
@@ -41,16 +40,18 @@ All seats use the organisation's monthly or annual billing cycle. A member canno
 
 ## Understand card and invoice changes
 
-The timing of a seat change depends on the payment method:
+New paid seats, upgrades and other price-increasing seat changes require payment before they take effect:
 
-- **Card:** a new seat, upgrade or discount adjustment normally appears in the next card payment. After that payment, the following recurring amount will reflect the ordinary total for the current seats.
-- **Invoice:** LawLibrary issues an adjustment invoice for a mid-cycle addition or upgrade. The new access can start immediately when the active organisation is in good standing.
+- **Card:** LawLibrary sends you to PayFast to pay the prorated amount. The seats become available after payment is confirmed. The card details entered at checkout are used for future recurring payments.
+- **Invoice:** LawLibrary issues an adjustment invoice. The seats become available after the invoice payment is confirmed.
 
-Downgrades and seat reductions normally take effect at renewal. An issued invoice is not changed after it has been finalised. A later change appears in the next adjustment or renewal.
+Free seats and changes fully covered by organisation credit take effect immediately. A failed or cancelled seat-change payment does not affect the organisation's existing seats. Resume or cancel the pending change before starting another paid seat change.
+
+Downgrades and paid seat reductions normally take effect at renewal. Free unused seats can be removed immediately. An issued invoice is not changed after it has been finalised.
 
 ## Review seats and scheduled changes
 
-The **Seats** section lists each assigned or unused seat separately. It shows the plan, assigned member, seat status and any change scheduled for renewal.
+Use the **[Members][organisation-members]** page to review seats grouped by plan, change seat quantities, and see assigned, reserved, unused and awaiting-payment seats.
 
 An unused seat renews at the standard price unless an administrator schedules it to end. If it is assigned before renewal, the assigned member's eligible discount is taken into account.
 
@@ -71,7 +72,7 @@ Contact LawLibrary if you need to change from monthly to annual billing, change 
 
 Eligible discounts belong to individual members. LawLibrary applies each member's discount to their assigned seat and records it on the relevant charge. An unused seat has no member discount.
 
-A sponsored member can apply an eligible discount from **My Account**. If a discount starts, changes or expires during a billing period, LawLibrary calculates the difference for the remaining period. Card organisations see that adjustment in the next card payment. Invoice organisations receive an adjustment invoice.
+A sponsored member can apply an eligible discount from **My Account**. If a discount starts, changes or expires during a billing period, LawLibrary calculates the difference for the remaining period. An automatic discount adjustment follows the organisation's normal billing process.
 
 Reassigning a seat to a member with different discount eligibility can also create a charge or credit. Unassigning a seat does not reverse the previous member's discount during the period that has already been paid. If the seat is still unused at renewal, it renews at the standard price unless it is scheduled to end.
 
@@ -81,7 +82,7 @@ If credit covers an entire renewal, LawLibrary settles the zero-value renewal in
 
 ## View invoices and payment history
 
-Use **[Billing History][organisation-billing]** to review charges, payments and invoices. Click **Download** beside an invoice when a download is available.
+Open **[Invoices][organisation-invoices]** to review charges, payments and invoices. Use the payment button if an amount is due. Click **Download** beside an invoice when a download is available.
 
 An organisation invoice may identify the member or unused seat connected to each plan charge. It never includes usage or private research information.
 
@@ -103,4 +104,6 @@ LawLibrary will confirm the closure date and any remaining obligations. Closing 
 
 [organisation-overview]: %%APPURL%%/accounts/organisation/
 [organisation-billing]: %%APPURL%%/accounts/organisation/billing/
+[organisation-invoices]: %%APPURL%%/accounts/organisation/invoices/
+[organisation-members]: %%APPURL%%/accounts/organisation/members/
 (% endif %)

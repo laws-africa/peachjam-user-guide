@@ -9,8 +9,10 @@ My LawLibrary for Organisations and Chambers lets a firm or chambers pay for sev
 
 ## Understand the main terms
 
-- A **seat** is one paid place that an organisation can assign to a member.
-- An **unused seat** is a seat that the organisation is paying for but has not assigned to a member.
+- A **seat** is one place on a plan that an organisation can assign to a member.
+- An **assigned seat** provides a subscription to a member.
+- A **reserved seat** is being held for a pending invitation.
+- An **unused seat** is an active seat that the organisation has not assigned to a member.
 - A **plan** determines the My LawLibrary features and limits available to the member using the seat.
 - A **subscription** is the access provided to a person, whether they pay for it themselves or receive it through an organisation.
 
@@ -33,7 +35,7 @@ A person's role and paid access are separate. For example, an administrator can 
 
 An organisation uses one billing cycle for all its seats: monthly or annual. Individual members cannot choose a different cycle for an organisation-funded seat.
 
-The organisation's billing cycle starts when the first payment is received. New seats and upgrades can start during the cycle, but all seats renew together. Contact LawLibrary to arrange a change between monthly and annual billing.
+The organisation's billing cycle starts when its opening amount is settled. If the organisation has only free seats, this happens without a payment. New paid seats and upgrades can start during the cycle after the prorated amount is paid. All seats renew together. Contact LawLibrary to arrange a change between monthly and annual billing.
 
 ## Understand research privacy
 
@@ -54,7 +56,7 @@ If you are the organisation owner or an administrator:
 2. Click your name in the top-right menu.
 3. Click **[Manage \[organisation\]][organisation-overview]**.
 
-Use **[Overview][organisation-overview]** for a summary, **[Members][organisation-members]** for people and seats, and **[Billing][organisation-billing]** for payment and invoice details.
+Use **[Overview][organisation-overview]** for a summary, **[Members][organisation-members]** for people and seats, **[Billing][organisation-billing]** for billing details, and **[Invoices][organisation-invoices]** for charges, payments and invoices.
 
 All organisation members can see their role, membership and privacy information in the **Organisation** section of their **[My Account][my-account]** page.
 
@@ -69,4 +71,5 @@ All organisation members can see their role, membership and privacy information 
 [organisation-overview]: %%APPURL%%/accounts/organisation/
 [organisation-members]: %%APPURL%%/accounts/organisation/members/
 [organisation-billing]: %%APPURL%%/accounts/organisation/billing/
+[organisation-invoices]: %%APPURL%%/accounts/organisation/invoices/
 (% endif %)
