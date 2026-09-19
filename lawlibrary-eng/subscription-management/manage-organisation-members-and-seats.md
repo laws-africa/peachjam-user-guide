@@ -14,7 +14,33 @@ The **[Organisation Members][organisation-members]** page brings your organisati
 3. Click **[Manage \[organisation\]][organisation-overview]**.
 4. Click **[Members][organisation-members]**.
 
-The page shows active members, pending invitations, assigned plans and scheduled changes. It also shows permitted usage information when the organisation uses **Managed usage** privacy.
+The page shows seat totals by plan, active members, pending invitations, assigned plans and scheduled changes. It also shows permitted usage information when the organisation uses **Managed usage** privacy.
+
+## Understand the seat summary
+
+The **Seats** section groups your organisation's capacity by plan. For each plan, it shows:
+
+- the total number of active seats;
+- how many seats are assigned to members;
+- how many are reserved for invitations;
+- how many are unused; and
+- how many are waiting for payment.
+
+An unused paid seat is still part of your organisation's paid commitment. You can assign any unused seat to another member on the same plan without adding another seat.
+
+## Change the number of seats
+
+1. Click **Manage seats**.
+2. Use the minus and plus controls to choose the number of seats for each plan.
+3. Click **Continue**.
+4. Review the amount due now, any credit, seats ending at renewal and the next recurring total.
+5. Click **Confirm seat changes**.
+
+New paid seats become available only after payment is confirmed. If your organisation pays by card, you continue to PayFast. If it pays by invoice, LawLibrary issues an adjustment invoice.
+
+Free seats and additions fully covered by credit become available immediately. Free unused seats can also be removed immediately. Paid seat reductions take effect at renewal and do not create an automatic refund.
+
+You cannot reduce a plan below its assigned and reserved seats. Unassign members or cancel invitations first. If another paid seat change is waiting for payment, complete or cancel it before starting a new one.
 
 ## Invite a member
 
@@ -24,11 +50,11 @@ The page shows active members, pending invitations, assigned plans and scheduled
 4. Choose a paid plan, or choose no plan if the person does not need a paid seat.
 5. Click **Review invitation**.
 6. Review the possible billing change.
-7. Click **Send invitation**.
+7. Click **Send invitation** or **Continue to payment**.
 
-Sending an invitation does not reserve or buy a seat. When the person accepts, LawLibrary first uses an unused seat on the same plan. If there is no matching unused seat, the organisation authorises the cost of a new one.
+If an unused seat on the selected plan exists, LawLibrary reserves it and sends the invitation immediately. If a new paid seat is required, the invitation waits while you pay the prorated charge. LawLibrary sends it only after payment is confirmed. A new free seat becomes available and the invitation is sent immediately.
 
-The invitation expires after 14 days. Under **Pending invitations**, use **Resend** to send it again or **Cancel** if the person should no longer join.
+The invitation expires 14 days after it is sent. Under **Pending invitations**, use **Resend** to send it again or **Cancel** if the person should no longer join. Cancelling a sent invitation releases its reserved seat as an unused seat; it does not end the organisation's payment commitment for that seat.
 
 ## Change a member's role
 
@@ -44,24 +70,25 @@ Changing a role does not change the person's seat or plan. The affected person a
 
 1. Find the person on the **[Members][organisation-members]** page.
 2. Click **Manage**.
-3. Under **Seat and plan**, click **Assign seat** or **Manage seat**.
+3. Under **Plan**, open the available actions.
 4. Choose the plan or seat action.
 5. Click **Review change**.
 6. Check when the change will happen and how it affects billing.
 7. Click **Confirm change**.
 
-The preview can show:
+The review can show:
 
 - the amount due now;
-- the amount added to the next card payment;
 - any credit created; and
 - the next recurring total.
 
 LawLibrary recalculates these amounts when you confirm the change.
 
-An upgrade normally starts immediately. A downgrade starts at the organisation's next renewal. Use **Cancel scheduled seat change** if the future change is no longer needed.
+Assigning a plan requires an unused seat on that exact plan. If no matching seat exists, use **Manage seats** to add one first.
 
-If you reassign an unused seat, it must be on the same plan to be reused without buying another seat. A difference in the new member's discount can still create a charge or credit. Review the financial preview before you confirm the assignment.
+An upgrade starts after its prorated charge is paid. A downgrade starts at the organisation's next renewal. Use **Cancel scheduled seat change** if the future change is no longer needed.
+
+You can reassign a seat to another active member who does not have one. A difference in the new member's discount can create a charge or credit. If an additional amount is due, the current assignment stays in place until payment is confirmed.
 
 ## Choose the right removal action
 
@@ -124,7 +151,8 @@ It never shows document titles, searches, annotations, chats, downloads or resea
 - If the invitation expired, send a new one.
 - If the email address is wrong, cancel the invitation and invite the correct address.
 - If the person already belongs to another organisation, they must leave it before accepting.
-- If the organisation is waiting for its opening payment, the person can accept but paid access waits for settlement.
+- If the invitation says **Awaiting payment**, complete or resume the payment from the Members page. The invitation has not yet been sent.
+- If the organisation is waiting for its opening payment, the owner can accept, but paid access waits for settlement.
 
 [organisation-overview]: https://lawlibrary.org.za/accounts/organisation/
 [organisation-members]: https://lawlibrary.org.za/accounts/organisation/members/

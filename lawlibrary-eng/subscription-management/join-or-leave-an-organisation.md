@@ -9,7 +9,7 @@ An organisation invitation connects your existing LawLibrary account to your fir
 
 ## Find an invitation
 
-LawLibrary sends an invitation to the email address entered by the organisation administrator.
+LawLibrary sends an invitation to the email address entered by the organisation administrator. If the invitation requires a new paid seat, it is sent only after the organisation pays the prorated charge.
 
 If you already have an account with that email address, you can also find the invitation in [My Account][my-account]:
 
@@ -29,7 +29,7 @@ If you already have an account with that email address, you can also find the in
 
 An invitation without a paid subscription adds you to the organisation but leaves your current personal or free subscription unchanged.
 
-If the organisation is still waiting for its first payment, you may join before paid access starts. Your organisation-funded access will start once the first payment is made.
+If you are the initial owner and the organisation is still waiting for its first payment, you may join before paid access starts. Your organisation-funded access will start once the first payment is made.
 
 ## If you already pay for LawLibrary
 
