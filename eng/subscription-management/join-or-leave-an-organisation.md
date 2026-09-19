@@ -1,4 +1,4 @@
-(% if ORGANISATION_SUBSCRIPTIONS %)
+(% if ORGANISATION_SUBSCRIPTIONS -%)
 ---
 description: Accept an organisation invitation or leave an organisation on My LawLibrary.
 ---

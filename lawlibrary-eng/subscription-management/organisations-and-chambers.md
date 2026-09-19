@@ -1,4 +1,3 @@
-
 ---
 description: Understand how My LawLibrary works for organisations and chambers.
 ---

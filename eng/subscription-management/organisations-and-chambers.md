@@ -1,4 +1,4 @@
-(% if ORGANISATION_SUBSCRIPTIONS %)
+(% if ORGANISATION_SUBSCRIPTIONS -%)
 ---
 description: Understand how My LawLibrary works for organisations and chambers.
 ---

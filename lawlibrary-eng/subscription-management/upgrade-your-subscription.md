@@ -1,4 +1,3 @@
-
 ---
 description: Subscribe to and manage an individual My LawLibrary plan.
 ---

@@ -1,4 +1,4 @@
-(% if ORGANISATION_SUBSCRIPTIONS %)
+(% if ORGANISATION_SUBSCRIPTIONS -%)
 ---
 description: Invite people and manage roles, seats and plans for a My LawLibrary organisation.
 ---

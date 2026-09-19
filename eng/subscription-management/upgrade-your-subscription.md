@@ -1,4 +1,4 @@
-(% if PAID_SUBSCRIPTIONS %)
+(% if PAID_SUBSCRIPTIONS -%)
 ---
 description: Subscribe to and manage an individual My LawLibrary plan.
 ---

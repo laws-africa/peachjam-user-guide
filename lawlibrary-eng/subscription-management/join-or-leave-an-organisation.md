@@ -1,4 +1,3 @@
-
 ---
 description: Accept an organisation invitation or leave an organisation on My LawLibrary.
 ---

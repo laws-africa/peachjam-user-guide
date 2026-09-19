@@ -1,4 +1,3 @@
-
 ---
 description: Invite people and manage roles, seats and plans for a My LawLibrary organisation.
 ---

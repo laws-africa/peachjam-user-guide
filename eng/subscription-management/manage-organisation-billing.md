@@ -1,4 +1,4 @@
-(% if ORGANISATION_SUBSCRIPTIONS %)
+(% if ORGANISATION_SUBSCRIPTIONS -%)
 ---
 description: Review and manage billing for a My LawLibrary organisation.
 ---
