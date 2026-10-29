@@ -47,7 +47,7 @@ You can view your current plan and use the available controls to:
 
 ## When an organisation starts paying for your access
 
-You do not need a second LawLibrary account. Accept the organisation invitation using the email address linked to your existing account.
+You do not need a second LawLibrary account. Staff may add your existing account directly as the initial owner. For other roles, accept the organisation invitation using the email address linked to your existing account.
 
 When the organisation-funded plan becomes active:
 

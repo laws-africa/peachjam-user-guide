@@ -22,6 +22,21 @@ Click through to **[Billing][organisation-billing]** when you need billing detai
 
 Only the owner and administrators can open this page.
 
+## Activate a new organisation
+
+When the organisation has an owner but no billing agreement, the **[Organisation Overview][organisation-overview]** page shows **Activate organisation**.
+
+1. Open the organisation overview.
+2. Click **Activate organisation**.
+3. Review the committed seats and estimated total. Seat quantities and plans cannot be changed during checkout; contact LawLibrary before continuing if they need to change.
+4. Check the billing details. The billing name defaults to the organisation name, and the billing email defaults to the owner's email unless staff entered different details.
+5. Choose **Card** or **Invoice**.
+6. Confirm the activation.
+
+For card payment, continue to PayFast. For invoice payment, LawLibrary issues the opening invoice. If the opening amount is zero, the organisation activates immediately. Otherwise, organisation-funded subscriptions start after payment is confirmed.
+
+If checkout is cancelled or an invoice remains unpaid, return to the overview and use the payment action to continue. Refreshing or submitting checkout again does not create a second billing agreement.
+
 ## Check the next payment
 
 Review these details near the top of the page:

@@ -60,6 +60,10 @@ Use **[Overview][organisation-overview]** for a summary, **[Members][organisatio
 
 All organisation members can see their role, membership and privacy information in the **Organisation** section of their **[My Account][my-account]** page.
 
+When LawLibrary first creates an organisation, it uses the owner's email address to set up ownership. If that email already belongs to an eligible LawLibrary account, the person is added as owner immediately. Otherwise, LawLibrary sends an invitation to create an account. Creating the account also accepts the owner invitation.
+
+The owner or an administrator then activates the organisation from **[Overview][organisation-overview]**. They review the committed seats and billing details, choose card or invoice payment, and complete the opening payment. Organisation-funded subscriptions start after the payment is confirmed. A zero-value opening amount activates immediately.
+
 ## Choose what you need to do
 
 - [Join or leave an organisation](join-or-leave-an-organisation.md).

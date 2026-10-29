@@ -29,7 +29,7 @@ Your account area helps you keep your profile details up to date and manage your
 
 ## Manage an organisation connection
 
-The **Organisation** section shows any organisation invitation sent to the email address on your account. Click **Review invitation** to see the proposed role, plan and privacy setting before you accept it.
+The **Organisation** section shows any organisation invitation sent to the email address on your account. Click **Review invitation** to see the proposed role, plan and privacy setting before you accept it. If staff add your existing account directly as the initial owner, the organisation appears here immediately and no acceptance is required.
 
 After you join, this section shows:
 
@@ -38,7 +38,7 @@ After you join, this section shows:
 - the organisation's privacy setting and what administrators can see; and
 - an option to leave the organisation, if your role allows it.
 
-If you are the owner or an administrator, click **Manage [organisation name]** to manage members, seats and billing.
+If you are the owner or an administrator, click **Manage [organisation name]** to manage members, seats and billing. For a new organisation, use **Activate organisation** on the overview to review its committed seats and start payment.
 
 Learn more about [My LawLibrary for Organisations and Chambers](../subscription-management/organisations-and-chambers.md).
 

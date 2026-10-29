@@ -7,6 +7,17 @@ description: Accept an organisation invitation or leave an organisation on My La
 
 An organisation invitation connects your existing LawLibrary account to your firm or chambers. You keep your account and saved research. The invitation tells you whether the organisation will provide a paid subscription and what usage information its administrators can see.
 
+## If you are the initial owner
+
+LawLibrary uses your email address when staff create the organisation.
+
+- If you already have an eligible account with that email address, LawLibrary adds you as owner immediately. You do not need to accept an invitation. The notification email links to your organisation page.
+- If you do not have an account, open the owner invitation and create an account with the invited email address. Creating the account accepts the invitation, makes you the owner and takes you to the organisation overview.
+
+From the overview, click **Activate organisation**. Review the committed seats and billing details, choose card or invoice payment, and confirm. Paid access starts after payment is confirmed. A zero-value opening amount activates immediately.
+
+The remaining invitation steps on this page apply to administrators and members, and to an owner who signs in with an existing account through an invitation link.
+
 ## Find an invitation
 
 LawLibrary sends an invitation to the email address entered by the organisation administrator. If the invitation requires a new paid seat, it is sent only after the organisation pays the prorated charge.
@@ -29,7 +40,7 @@ If you already have an account with that email address, you can also find the in
 
 An invitation without a paid subscription adds you to the organisation but leaves your current personal or free subscription unchanged.
 
-If you are the initial owner and the organisation is still waiting for its first payment, you may join before paid access starts. Your organisation-funded access will start once the first payment is made.
+If the organisation is still waiting for its first payment, you may join before paid access starts. Your organisation-funded access will start once the first payment is made.
 
 ## If you already pay for LawLibrary
 
@@ -60,4 +71,5 @@ The organisation keeps any unused value that it funded. The released seat may be
 - **An administrator removed you:** your account remains in place, but organisation-funded access ends on the date selected by the administrator.
 
 [my-account]: %%APPURL%%/accounts/profile/
+[organisation-overview]: %%APPURL%%/accounts/organisation/
 (% endif %)
